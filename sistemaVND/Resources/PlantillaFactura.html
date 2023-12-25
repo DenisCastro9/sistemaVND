@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Factura</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        .container {
+            width: 700px;
+            height: 1122px;
+            margin: 20px;
+        }
+
+
+
+        .header {
+            text-align: center;
+            border: 1px solid black;
+        }
+
+        .tablaDatosEmpresa {
+            text-align: center;
+        }
+
+        .tablaDatosCliente {
+            text-align: center;
+            border: 1px solid black;
+        }
+
+
+
+
+
+        .table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+            .table th, .table td {
+                padding: 5px;
+                border: 1px solid;
+            }
+
+            .table th {
+                background-color: #f5f5f5;
+            }
+
+
+
+
+
+
+        .tablaPrueba {
+            border: 1px solid black;
+        }
+
+            .tablaPrueba td {
+                border: 1px solid black;
+            }
+    </style>
+</head>
+<body>
+    <div class="container">
+
+
+        <!---Fila 1 inicio--->
+        <div class="header" style="border-bottom: none;">
+            <table style="border-collapse: collapse; width: 100%;">
+                <tr>
+                    <td style=" width: 400px; border:1px solid; border-top: none; border-left: none; border-bottom: none;">
+                        <div class="tablaDatosEmpresa" style="height: 60px;"><strong>FABINCAL CORDOBA S.A.</strong></div>
+                        <div class="tablaDatosEmpresa" style="height: 20px;">Juan B Alberdi 450</div>
+                        <div class="tablaDatosEmpresa" style="height: 20px;">La Calera- CORDOBA</div>
+                        <div class="tablaDatosEmpresa" style="height: 20px;">IVA RESPONSABLE INSCRIPTO</div>
+                        <div style="height: 10px;"></div>
+                    </td>
+
+
+                    <td style="width: 400px; border:1px solid red; border-top: none; border-right: none; border-bottom: none;">
+                        <table>
+                            <tr>
+                                <td style="width:50px"></td>
+                                <td style="width:320px">
+                                    <div style="height:50px;">
+                                        <table>
+                                            <tr>
+                                                <td style="width:50%"></td>
+                                                <td><strong>Factura</strong></td>
+                                                <td style="width:2px"></td>
+                                                <td><strong>@LETRA</strong></td>
+                                                <td style="width:50%"></td>
+                                            </tr>
+                                        </table>
+                                    </div>
+                                    <div style="text-align:left;">
+                                        <table>
+                                            <tr>
+                                                <td><strong>N°:</strong></td>
+                                                <td style="width:2px"></td>
+                                                <td><strong>@NUMERO</strong></td>
+                                            </tr>
+                                        </table>
+                                    </div>
+                                    <div style="text-align:left">
+                                        <table>
+                                            <tr>
+                                                <td>Fecha:</td>
+                                                <td style="width:2px"></td>
+                                                <td>@FECHA</td>
+                                            </tr>
+                                        </table>
+                                    </div>
+                                    <div style="text-align:left">CUIT 30613107408</div>
+                                    <div style="text-align:left">IIBB 904-231069-2</div>
+                                    <div style="text-align:left">inicio actividad: 01/04/2006</div>
+                                    <div style="height:10px;"></div>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+
+                </tr>
+            </table>
+        </div>
+        <!---Fila 1 fin--->
+        <!----Fila 2 cliente inicio------->
+        <div class="header" style="border-bottom:none">
+            <table style="border-collapse: collapse; width: 100%;">
+                <tr>
+                    <td style=" width:50px"></td>
+                    <td style="text-align: right; width:80px">
+                        <table>
+                            <tr><td style="height:30px">Cliente:</td></tr>
+                            <tr><td style="height:30px">IVA:</td></tr>
+                        </table>
+                    </td>
+                    <td>
+                        <table style="text-align:left">
+                            <tr><td style="height:30px">@CLIENTE</td></tr>
+                            <tr><td style="height:30px">@ICLIEN</td></tr>
+                        </table>
+                    </td>
+
+                    <td style="width:130px">
+                        <table style="text-align:right">
+                            <tr><td style="height:30px">Ingresos brutos:</td></tr>
+                            <tr><td style="height:30px">CUIT N°:</td></tr>
+                        </table>
+                    </td>
+                    <td>
+                        <table style="text-align:left">
+                            <tr><td style="height:30px">@INBCLIEN</td></tr>
+                            <tr><td style="height:30px">@CUIT</td></tr>
+                        </table>
+                    </td>
+                    <td style="width:50px"></td>
+                </tr>
+            </table>
+
+        </div>
+        <!----Fila 2 cliente fin------->
+        <!----------DOMICILIO INICIO----------->
+        <div class="header" style="border-bottom: none; border-top:none">
+            <table style="border-collapse: collapse; width: 100%;">
+                <tr>
+                    <td style=" width:50px"></td>
+                    <td style="text-align: right; width:80px">
+                        <table>
+                            <tr><td style="height:30px;">Domicilio:</td></tr>
+                        </table>
+                    </td>
+                    <td>
+                        <table style="text-align:left">
+                            <tr><td style="height:30px; width:800px">@DOMCLI</td></tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <!----------DOMICILIO FIN----------->
+        <!----Fila 3 pagos inicio------->
+        <div class="header" style="border-bottom: none;">
+            <table>
+                <tr>
+                    <td style=" width:60px"></td>
+                    <td style="height:10px"></td>
+                </tr>
+                <tr style="text-align:left">
+                    <td></td>
+                    <td>Vencimiento de pago:</td>
+                    <td style="width:10px"></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td style="height:10px"></td>
+                    <td style="height:10px"></td>
+                </tr>
+                <tr style="text-align:left">
+                    <td></td>
+                    <td>Condiciones de venta:</td>
+                    <td style="width:10px"></td>
+                    <td>@CONDICIONES</td>
+                </tr>
+                <tr>
+                    <td style="height:10px"></td>
+                    <td style="height:10px"></td>
+                </tr>
+            </table>
+        </div>
+        <!----Fila 3 pagos fin------->
+        <!-- Fila tabla inicio----->
+        <div>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th style="width:1px">Cod.</th>
+                        <th style="width:1px">Cant.</th>
+                        <th style="width:300px">Descripcion</th>
+                        <th style="width:1px">Precio</th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                    <tr>
+                        <td>@PED</td>
+                        <td>@CANT</td>
+                        <td style="width:300px; overflow: auto; white-space: pre-wrap;">@DESCR</td>
+                        <td>@PRECIO</td>
+                    </tr>
+
+
+                </tbody>
+
+            </table>
+        </div>
+        <!-- Fila tabla fin----->
+        <!----Fila pie inicio--->
+        <div class="header" style="border-top: none;">
+            <table style="border-collapse: collapse; width: 100%;">
+                <tr>
+                    <td style=" width:20px; height:30px"></td>
+                    <td style=" width:80px; height:30px; text-align:right">Remito:</td>
+                    <td style="text-align:left">@REMITO</td>
+                    <td></td>
+                    <td style="text-align:right; width:200px">NETO GRAVADO</td>
+                    <td style=" width:40px;"></td>
+                    <td style=" width:80px; text-align:right">@NETO</td>
+                    <td style=" width:20px;"></td>
+                </tr>
+                <tr>
+                    <td style=" width:20px; height:30px"></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td>
+                        <table style="border-collapse: collapse; width: 100%; text-align:right">
+                            <tr>
+                                <td>IVA</td>
+                                <td style="width:40px">@PORCIVA</td>
+                                <td style="width:20px">%</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td style=" width:40px;"></td>
+                    <td style=" width:80px; text-align:right">@IVA</td>
+                    <td style=" width:20px;"></td>
+                </tr>
+                <tr>
+                    <td style=" width:20px; height:30px"></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td style="text-align:right">NO GRAVADO/EXENTO</td>
+                    <td style=" width:40px;"></td>
+                    <td style=" width:80px; text-align:right">@EXENTO</td>
+                    <td style=" width:20px;"></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td style="text-align:right">CAE N°</td>
+                    <td style="width:200px; text-align:left">71078845461571</td>
+                    <td></td>
+                    <td style="text-align:right; width:200px">PERC IB</td>
+                    <td style=" width:40px;"></td>
+                    <td style=" width:80px; text-align:right">@IBB</td>
+                    <td style=" width:20px;"></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td style="text-align:right">Vto CAE:</td>
+                    <td style="text-align:left">28/02/2024</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td style="text-align:right; width:200px">TOTAL</td>
+                    <td></td>
+                    <td style=" width:80px; text-align:right">@TOTAL</td>
+                    <td></td>
+                </tr>
+            </table>
+        </div>
+        <!----Fila pie fin--->
+
+
+
+
+    </div>
+
+</body>
+</html>

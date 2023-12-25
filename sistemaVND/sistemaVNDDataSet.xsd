@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="sistemaVNDDataSet" targetNamespace="http://tempuri.org/sistemaVNDDataSet.xsd" xmlns:mstns="http://tempuri.org/sistemaVNDDataSet.xsd" xmlns="http://tempuri.org/sistemaVNDDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="sistemaVNDConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="sistemaVNDConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.sistemaVND.Properties.Settings.GlobalReference.Default.sistemaVNDConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="usuariosTableAdapter" GeneratorDataComponentClassName="usuariosTableAdapter" Name="usuarios" UserDataComponentName="usuariosTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="sistemaVNDConnectionString (Settings)" DbObjectName="sistemaVND.dbo.usuarios" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT dni, nombre, fechaIngreso, fechaEgreso FROM dbo.usuarios</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="dni" DataSetColumn="dni" />
+              <Mapping SourceColumn="nombre" DataSetColumn="nombre" />
+              <Mapping SourceColumn="fechaIngreso" DataSetColumn="fechaIngreso" />
+              <Mapping SourceColumn="fechaEgreso" DataSetColumn="fechaEgreso" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="sistemaVNDDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="sistemaVNDDataSet" msprop:Generator_UserDSName="sistemaVNDDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="usuarios" msprop:Generator_TableClassName="usuariosDataTable" msprop:Generator_TableVarName="tableusuarios" msprop:Generator_RowChangedName="usuariosRowChanged" msprop:Generator_TablePropName="usuarios" msprop:Generator_RowDeletingName="usuariosRowDeleting" msprop:Generator_RowChangingName="usuariosRowChanging" msprop:Generator_RowEvHandlerName="usuariosRowChangeEventHandler" msprop:Generator_RowDeletedName="usuariosRowDeleted" msprop:Generator_RowClassName="usuariosRow" msprop:Generator_UserTableName="usuarios" msprop:Generator_RowEvArgName="usuariosRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="dni" msprop:Generator_ColumnVarNameInTable="columndni" msprop:Generator_ColumnPropNameInRow="dni" msprop:Generator_ColumnPropNameInTable="dniColumn" msprop:Generator_UserColumnName="dni" type="xs:long" />
+              <xs:element name="nombre" msprop:Generator_ColumnVarNameInTable="columnnombre" msprop:Generator_ColumnPropNameInRow="nombre" msprop:Generator_ColumnPropNameInTable="nombreColumn" msprop:Generator_UserColumnName="nombre">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="fechaIngreso" msprop:Generator_ColumnVarNameInTable="columnfechaIngreso" msprop:Generator_ColumnPropNameInRow="fechaIngreso" msprop:Generator_ColumnPropNameInTable="fechaIngresoColumn" msprop:Generator_UserColumnName="fechaIngreso" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="fechaEgreso" msprop:Generator_ColumnVarNameInTable="columnfechaEgreso" msprop:Generator_ColumnPropNameInRow="fechaEgreso" msprop:Generator_ColumnPropNameInTable="fechaEgresoColumn" msprop:Generator_UserColumnName="fechaEgreso" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

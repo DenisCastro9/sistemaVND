@@ -1,0 +1,674 @@
+<!DOCTYPE HTML>
+<!--------------->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Web Page Design</title>
+    <style>
+
+        @media print {
+            .page-break {
+                break-before: page;
+            }
+        }
+
+
+
+        table.border {
+            border-collapse: collapse;
+        }
+
+            table.border th {
+                padding: 5px;
+                border: 1px solid black;
+            }
+
+            table.border td {
+                padding: 5px;
+                border: 1px solid black;
+            }
+
+        body {
+            margin: 5% 10%;
+        }
+
+        .dotted-line {
+            border: none;
+            border-top: 3px dotted black;
+            color: black;
+            background-color: transparent;
+            height: 20px;
+        }
+    </style>
+</head>
+<body>
+
+
+    <table style="width:100%">
+
+        <!------INICIO ORDEN DE FABRICACION-------->
+        <tr>
+            <td colspan="5">
+                <table style="width:100%">
+                    <tr>
+                        <td>FABINCAL CORDOBA SA</td>
+                        <td>
+                            <table align="right">
+                                <tr>
+                                    <td>FECHA EMISION: </td>
+                                    <td>@FECHA</td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+
+        <tr><td colspan="5" height="10"></td></tr>
+
+        <tr>
+            <td colspan="5">
+                <table>
+                    <tr><td align="left">ORDEN DE FABRICACION N°: </td><td align="left">@NUMERO</td></tr>
+                </table>
+            </td>
+        </tr>
+
+        <tr><td colspan="5" height="20"></td></tr>
+
+        <tr>
+            <td style="width:60%">
+                <table>
+                    <tr><td align="left">ARTICULO: </td><td align="left">@NOMBREARTICULO</td></tr>
+                </table>
+            </td>
+        </tr>
+
+        <tr><td colspan="5" height="20"></td></tr>
+
+        <tr>
+            <td colspan="5">
+                <table style="width:100%">
+                    <tbody>
+                        <tr>
+                            <td style="width:50%">
+                                <table>
+                                    <tr align="left">
+                                        <td>HILO: </td>
+                                        <td>@HILO</td>
+                                    </tr>
+                                    <tr align="left">
+                                        <td>COSTURON: </td>
+                                        <td>@COSTURON</td>
+                                    </tr>
+                                    <tr align="left">
+                                        <td>APLIQUES I: </td>
+                                        <td>@APLIQUESnrouno</td>
+                                    </tr>
+                                    <tr align="left">
+                                        <td>APLIQUES II: </td>
+                                        <td>@APLIQUESnrodos</td>
+                                    </tr>
+                                    <tr align="left">
+                                        <td>APLIQUES III: </td>
+                                        <td>@APLIQUESnrotres</td>
+                                    </tr>
+                                    <tr align="left">
+                                        <td>HORMA: </td>
+                                        <td>@HORMA</td>
+                                    </tr>
+                                </table>
+                            </td>
+                            <td style="width:50%">
+                                <table style="margin: 0 auto;">
+                                    <tr>
+                                        <td>
+                                            <table class="border" style="margin-top: 0;">
+                                                <thead>
+                                                    <tr>
+                                                        <th>Talle</th>
+                                                        <th>Cantidad</th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    <!-- @FILAS -->
+                                                    <!--  <tr>
+         <td>1</td>
+         <td>desc</td>
+     </tr>-->
+                                                    @GENERALFILAS
+                                                    <!-- @FILAS -->
+                                                    <tr>
+                                                        <td>Total pares:</td>
+                                                        <td>@TOTALPARES</td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+
+        <tr><td colspan="5" height="20"></td></tr>
+
+        <tr>
+            <td colspan="5">
+                <table style="width:100%">
+                    <tr>
+                        <td>
+                            <table>
+                                <tr>
+                                    <td align="left">CLIENTE: </td>
+                                    <td align="left" style="width:50%">@CLIENTE</td>
+                                    <td align="right" style="width:50%">PEDIDO NUMERO: </td>
+                                    <td align="right">@PEDIDO</td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr><td colspan="5" height="20"></td></tr>
+
+        <tr>
+            <td colspan="5">
+                <table style="width:100%">
+                    <tr>
+                        <td style="width:0%; vertical-align: top;">Comentario:</td>
+                        <td>
+                            <table style="width:100%; height:80px">
+                                <tr>
+                                    <th></th>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <!------FIN ORDEN DE FABRICACION --------->
+
+        <tr><td colspan="5" height="40"></td></tr>
+
+        <tr class="page-break"><td></td></tr>
+
+        <tr><td class="dotted-line" colspan="5"><td /></tr>
+
+        <!------inicio CORTADO-------->
+        <tr>
+            <td colspan="5">
+                <table style="width:100%">
+                    <tr>
+                        <td>FABINCAL CORDOBA SA</td>
+                        <td>
+                            <table align="right">
+                                <tr>
+                                    <td>FECHA EMISION: </td>
+                                    <td>@FECHA</td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+
+
+        <tr>
+            <td colspan="5">
+                <table style="width:100%">
+                    <tr>
+                        <td>
+                            <table align="LEFT">
+                                <tr>
+                                    <td>ORDEN N°:  </td>
+                                    <td>@NUMERO</td>
+                                </tr>
+                            </table>
+                        </td>
+                        <td>
+                            <table align="right">
+                                <tr>
+                                    <td>ARTICULO: </td>
+                                    <td>@NOMBREARTICULO</td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+
+        <tr><td colspan="5"></td></tr>
+
+        <tr>
+            <td colspan="5">
+                <table style="width:100%">
+                    <tr>
+                        <td align="left"><strong>CORTADO</strong></td>
+                        <td align="right"><strong>TOTAL DE PARES:</strong></td>
+                        <td align="right"><strong>@TOTALPARES</strong></td>
+                    </tr>
+
+                </table>
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                <table class="border" style="margin-top: 0;">
+                    <thead>
+                        <tr>
+                            <th>Talle</th>
+                            <th>Cantidad</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- @FILAS -->
+                        <!--  <tr>
+         <td>1</td>
+         <td>desc</td>
+     </tr>-->
+                        @GENERALFILAS
+                        <!-- @FILAS -->
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+        <tr><td colspan="5" height="10"></td></tr>
+
+        <tr>
+            <td colspan="5">
+                <table class="border" style="width:100%">
+                    <thead>
+                        <tr style="font-size: 14px">
+                            <th>Codigo MP</th>
+                            <th style="width: 40%">Descripcion MP</th>
+                            <th>A despachar</th>
+                            <th>Despachado</th>
+                            <th>Diferencia</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- @FILAS-->
+                        <!--
+    <tr style="font-size: 14px">
+      <td>codigo</td>
+      <td >desc</td>
+      <td>2</td>
+      <td></td>
+      <td></td>
+    </tr>
+    -->
+                        @CORTADOFILAS
+                        <!-- @FILAS-->
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+
+        <!---FIN CORTADO---->
+        <tr><td colspan="5" height="40"></td></tr>
+
+
+
+        <tr><td class="dotted-line" colspan="5"><td /></tr>
+
+
+        <!------inicio EMPAQUE --------->
+        <tr>
+            <td colspan="5">
+                <table style="width:100%">
+                    <tr>
+                        <td>FABINCAL CORDOBA SA</td>
+                        <td>
+                            <table align="right">
+                                <tr>
+                                    <td>FECHA EMISION: </td>
+                                    <td>@FECHA</td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+
+
+        <tr>
+            <td colspan="5">
+                <table style="width:100%">
+                    <tr>
+                        <td>
+                            <table align="LEFT">
+                                <tr>
+                                    <td>ORDEN N°:  </td>
+                                    <td>@NUMERO</td>
+                                </tr>
+                            </table>
+                        </td>
+                        <td>
+                            <table align="right">
+                                <tr>
+                                    <td>ARTICULO: </td>
+                                    <td>@NOMBREARTICULO</td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+
+        <tr><td colspan="5"></td></tr>
+
+        <tr>
+            <td colspan="5">
+                <table style="width:100%">
+                    <tr>
+                        <td align="left"><strong>EMPAQUE</strong></td>
+                        <td align="right"><strong>TOTAL DE PARES:</strong></td>
+                        <td align="right"><strong>@TOTALPARES</strong></td>
+                    </tr>
+
+                </table>
+            </td>
+        </tr>
+
+        <tr><td colspan="5"></td></tr>
+        <tr>
+            <td>
+                <table class="border" style="margin-top: 0;">
+                    <thead>
+                        <tr>
+                            <th>Talle</th>
+                            <th>Cantidad</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- @FILAS -->
+                        <!--  <tr>
+         <td>1</td>
+         <td>desc</td>
+     </tr>-->
+                        @GENERALFILAS
+                        <!-- @FILAS -->
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+
+        <tr><td colspan="5" height="10"></td></tr>
+        <tr>
+            <td colspan="5">
+                <table class="border" style="width:100%">
+                    <thead>
+                        <tr style="font-size: 14px">
+                            <th>Codigo MP</th>
+                            <th style="width: 40%">Descripcion MP</th>
+                            <th>A despachar</th>
+                            <th>Despachado</th>
+                            <th>Diferencia</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- @FILAS-->
+                        <!--
+    <tr style="font-size: 14px">
+      <td>codigo</td>
+      <td >desc</td>
+      <td>2</td>
+      <td></td>
+      <td></td>
+    </tr>
+    -->
+                        @EMPAQUEFILAS
+                        <!-- @FILAS-->
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+
+        <!--FIN EMPAQUE--->
+
+        <tr><td colspan="5" height="40"></td></tr>
+        <tr class="page-break"><td></td></tr>
+
+        <tr><td class="dotted-line" colspan="5"><td /></tr>
+
+
+        <tr><td colspan="5" height="20"></td></tr>
+
+
+        <!------inicio APARADO -------->
+        <tr>
+            <td colspan="5">
+                <table style="width:100%">
+                    <tr>
+                        <td>FABINCAL CORDOBA SA</td>
+                        <td>
+                            <table align="right">
+                                <tr>
+                                    <td>FECHA EMISION: </td>
+                                    <td>@FECHA</td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+
+        <tr>
+            <td colspan="5">
+                <table style="width:100%">
+                    <tr>
+                        <td>
+                            <table align="LEFT">
+                                <tr>
+                                    <td>ORDEN N°:  </td>
+                                    <td>@NUMERO</td>
+                                </tr>
+                            </table>
+                        </td>
+                        <td>
+                            <table align="right">
+                                <tr>
+                                    <td>ARTICULO: </td>
+                                    <td>@NOMBREARTICULO</td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+
+        <tr><td colspan="5"></td></tr>
+
+        <tr>
+            <td colspan="5">
+                <table style="width:100%">
+                    <tr>
+                        <td align="left"><strong>APARADO</strong></td>
+                        <td align="right"><strong>TOTAL DE PARES:</strong></td>
+                        <td align="right"><strong>@TOTALPARES</strong></td>
+                    </tr>
+
+                </table>
+            </td>
+        </tr>
+
+        <tr><td colspan="5"></td></tr>
+        <tr>
+            <td>
+                <table class="border" style="margin-top: 0;">
+                    <thead>
+                        <tr>
+                            <th>Talle</th>
+                            <th>Cantidad</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- @FILAS -->
+                        <!--  <tr>
+         <td>1</td>
+         <td>desc</td>
+     </tr>-->
+                        @GENERALFILAS
+                        <!-- @FILAS -->
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+
+        <tr><td colspan="5" height="10"></td></tr>
+
+
+        <tr>
+            <td colspan="5">
+                <table class="border" style="width:100%">
+                    <thead>
+                        <tr style="font-size: 14px">
+                            <th>Codigo MP</th>
+                            <th style="width: 40%">Descripcion MP</th>
+                            <th>A despachar</th>
+                            <th>Despachado</th>
+                            <th>Diferencia</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- @FILAS-->
+                        <!--
+    <tr style="font-size: 14px">
+      <td>codigo</td>
+      <td >desc</td>
+      <td>2</td>
+      <td></td>
+      <td></td>
+    </tr>
+    -->
+                        @APARADOFILAS
+                        <!-- @FILAS-->
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+
+
+        <!--FIN APARADO--->
+        <tr><td colspan="5" height="40"></td></tr>
+        <tr class="page-break"><td></td></tr>
+
+        <tr><td class="dotted-line" colspan="5"><td /></tr>
+
+
+        <tr><td colspan="5" height="20"></td></tr>
+
+
+
+
+        <!-----INICIO PEDIDOS--------->
+        <tr style="width:100%">
+            <td colspan="5">
+                <table style="width:100%">
+                    <tr>
+                        <td>
+                            <table align="left">
+                                <tr><td>PEDIDO: </td><td>@PEDIDO</td></tr>
+                            </table>
+                        </td>
+                        <tH>FABINCAL CORDOBA SA</tH>
+                        <td>
+                            <table align="right">
+                                <tr><td>FECHA: </td><td>@FECHA</td></tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+
+        <tr><td style="width:100%" height="20"></td></tr>
+
+
+        <tr style="width:100%">
+            <td colspan="5">
+                <table style="width:100%">
+                    <tr>
+                        <td>
+                            <table align="left">
+                                <tr><td>CLIENTE: </td><td>@CLIENTE</td></tr>
+                            </table>
+                        </td>
+                        <tH></tH>
+                        <td>
+                            <table align="right">
+                                <tr><td>Fecha creacion: </td><td>@CREACION</td></tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+
+
+
+
+        <tr><td colspan="3" height="10"></td></tr>
+
+        <tr>
+
+            <th style="width:100%" align="center" colspan="3">
+                PEDIDO ORIGINAL
+            </th>
+        </tr>
+
+        <tr><td colspan="3" height="10"></td></tr>
+
+        <tr>
+            <td colspan="3">
+                <table class="border" style="width:100%">
+                    <thead>
+                        <tr>
+                            <th colspan="3">@NOMBREARTICULO</th>
+                        </tr>
+                        <tr>
+                            <th>Codigo</th>
+                            <th>Talle</th>
+                            <th>Cantidad</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!--
+     <tr>
+         <td>1</td>
+         <td>desc</td>
+         <td>3</td>
+     </tr>-->
+                        @DATADELPEDIDO
+
+                    </tbody>
+
+                    <tr><td colspan="1" height="10"></td></tr>
+                    <tr>
+                        <td colspan="1">Total pares:</td>
+                        <td colspan="1" style="border-bottom:1px solid black">@TTPARESPEDIDO</td>
+                    </tr>
+
+
+                </table>
+            </td>
+        </tr>
+
+        <!-----FIN PEDIDO--->
+    </table>
+
+</body>
+</html>

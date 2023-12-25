@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Factura</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        .container {
+            width: 740px;
+            height: 1000px;
+            margin: 20px;
+        }
+
+
+
+        .header {
+            text-align: center;
+            border: 1px solid black;
+        }
+
+        .tablaDatosEmpresa {
+            text-align: center;
+        }
+
+        .tablaDatosCliente {
+            text-align: center;
+            border: 1px solid black;
+        }
+
+
+
+
+
+        .table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+            .table th {
+                padding: 5px;
+                border: 1px solid;
+            }
+
+
+
+
+
+
+
+        .tablaPrueba {
+            border: 1px solid black;
+        }
+
+            .tablaPrueba td {
+                border: 1px solid black;
+            }
+    </style>
+</head>
+<body>
+    <div class="container">
+
+
+        <!---Fila 1 inicio--->
+        <div class="header" style="border-bottom: none;">
+            <table style="border-collapse: collapse; width: 100%;">
+                <tr>
+                    <td style=" width: 400px; border:1px solid; border-top: none; border-left: none; border-bottom: none;">
+                        <div class="tablaDatosEmpresa" style="height: 30px; margin-top:10px"><strong>FABINCAL CORDOBA S.A.</strong></div>
+
+                        <div class="tablaDatosEmpresa" style="height: 40px;">Administración y planta industrial: Juan B Alberdi 450 La Calera- Córdoba</div>
+                        <div class="tablaDatosEmpresa" style="height: 40px;">Tel (+54)3543 466606 / 468164 /467878 Fax directo: 0800-888-3224</div>
+                        <div class="tablaDatosEmpresa" style="height: 55px;">Email: ventas@fabincalcordobasa.com.ar www.scarpinoshoes.com.ar</div>
+                        <div style="height: 20px;"> IVA RESPONSABLE INSCRIPTO</div>
+                    </td>
+
+
+                    <td style="width: 400px; border:1px solid red; border-top: none; border-right: none; border-bottom: none;">
+                        <table>
+                            <tr>
+                                <td style="width:50px"></td>
+                                <td style="width:350px">
+                                    <div style="height:50px;">
+                                        <table>
+                                            <tr>
+                                                <td style="width:50%"></td>
+                                                <td><strong>Remito</strong></td>
+                                                <td style="width:2px"></td>
+                                                <td><strong>@NRO</strong></td>
+                                                <td style="width:50%"></td>
+                                            </tr>
+                                        </table>
+                                    </div>
+                                    <div style="text-align:left;">
+                                        <table>
+                                            <tr>
+                                                <td>Fecha:</td>
+                                                <td style="width:2px"></td>
+                                                <td>@FECHA</td>
+                                            </tr>
+                                        </table>
+                                    </div>
+                                    <div style="text-align:left">Lugar de emisión: LA CALERA</div>
+                                    <div style="text-align:left">CUIT: 30-61310740-8</div>
+                                    <div style="text-align:left">ING BRUTOS: 904-231069-2</div>
+                                    <div style="text-align:left">INICIO ACTIVIDAD: 05/1987</div>
+                                    <div style="height:15px"></div>
+                                    <div>Documento no valido como factura</div>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+
+                </tr>
+            </table>
+        </div>
+        <!---Fila 1 fin--->
+        <!----Fila 2 cliente inicio------->
+        <div class="header" style="border-bottom:none">
+            <table style="border-collapse: collapse; width: 100%;">
+                <tr>
+                    <td style=" width:50px"></td>
+                    <td style="text-align: right; width:80px">
+                        <table>
+                            <tr><td style="height:30px">Cliente:</td></tr>
+                            <tr><td style="height:30px">IVA:</td></tr>
+                        </table>
+                    </td>
+                    <td>
+                        <table style="text-align:left">
+                            <tr><td style="height:30px">@CLIENTE</td></tr>
+                            <tr><td style="height:30px">@ICLIEN</td></tr>
+                        </table>
+                    </td>
+
+                    <td style="width:130px">
+                        <table style="text-align:right">
+                            <tr><td style="height:30px">Ingresos brutos:</td></tr>
+                            <tr><td style="height:30px">CUIT N°:</td></tr>
+                        </table>
+                    </td>
+                    <td>
+                        <table style="text-align:left">
+                            <tr><td style="height:30px">@INBCLIEN</td></tr>
+                            <tr><td style="height:30px">@CUIT</td></tr>
+                        </table>
+                    </td>
+                    <td style="width:50px"></td>
+                </tr>
+            </table>
+
+        </div>
+        <!----Fila 2 cliente fin------->
+        <!----------DOMICILIO INICIO----------->
+        <div class="header" style="border-bottom: none; border-top:none">
+            <table style="border-collapse: collapse; width: 100%;">
+                <tr>
+                    <td style=" width:50px"></td>
+                    <td style="text-align: right; width:80px">
+                        <table>
+                            <tr><td style="height:30px;">Domicilio:</td></tr>
+                        </table>
+                    </td>
+                    <td>
+                        <table style="text-align:left">
+                            <tr><td style="height:30px; width:800px">@DOMCLI</td></tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <!----------DOMICILIO FIN----------->
+        <!----Fila 3 transporte inicio------->
+        <div class="header">
+            <table>
+                <tr>
+                    <td style=" width:60px"></td>
+                    <td style="height:10px"></td>
+                </tr>
+                <tr style="text-align:left">
+                    <td></td>
+                    <td>Transportista:</td>
+                    <td style="width:10px"></td>
+                    <td>@TRANSPORTISTA</td>
+                </tr>
+                <tr>
+                    <td style="height:10px"></td>
+                    <td style="height:10px"></td>
+                </tr>
+                <tr style="text-align:left">
+                    <td></td>
+                    <td>Domicilio de entrega:</td>
+                    <td style="width:10px"></td>
+                    <td>@ENTREGA</td>
+                </tr>
+                <tr>
+                    <td style="height:10px"></td>
+                    <td style="height:10px"></td>
+                </tr>
+            </table>
+        </div>
+        <!----Fila 3 transporte fin------->
+
+
+        <div style="height:20px"></div>
+
+
+        <!-- Fila tabla inicio----->
+        <div>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th style="width:1px; border-right:none">Cod.</th>
+                        <th style="width:300px; border-right:none; border-left:none">Descripcion</th>
+                        <th style="width:1px; border-left:none">Cantidad</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td style="padding: 20px">@PED</td>
+
+                        <td>
+                            <table style="padding: 20px; width:125%">
+
+                                <tr>
+                                    <td style=" width:80%; text-align:center">@DESCR</td>
+
+
+                                    <td style="width:20%; text-align:center">@CANT</td>
+                                </tr>
+
+                            </table>
+                        </td>
+
+                    </tr>
+                </tbody>
+
+            </table>
+        </div>
+        <!-- Fila tabla fin----->
+
+        <div style="height:150px"></div>
+
+        <div>
+            <table style="border-collapse: collapse; width: 100%;">
+                <tr>
+                    <td style="width:10px"></td>
+                    <td style="text-align:right">Bultos:</td>
+                    <td>@BULTOS</td>
+                    <td style="width:300px"></td>
+                    <td style="text-align:right">Total pares:</td>
+                    <td>@TOTAL</td>
+                    <td style="width:50px"></td>
+                </tr>
+            </table>
+        </div>
+
+        <!----Fila pie inicio--->
+        <div class="header">
+            <table style="border-collapse: collapse; width: 100%;">
+                <tr>
+                    <td style=" width:20px; height:30px"></td>
+                    <td style=" width:180px; height:30px; text-align:left">Recibi conforme:</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td style=" width:20px; height:30px"></td>
+                    <td style=" width:80px; height:30px; text-align:right"> </td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td style=" width:20px; height:30px"></td>
+                    <td style=" width:80px; height:30px; text-align:right"></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td colspan="2"> No se aceptan devoluciones pasadas las 72 hs de recibida la mercaderia</td>
+                </tr>
+            </table>
+        </div>
+        <!----Fila pie fin--->
+
+
+
+
+    </div>
+
+</body>
+</html>

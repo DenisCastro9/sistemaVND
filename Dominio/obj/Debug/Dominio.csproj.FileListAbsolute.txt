@@ -1,0 +1,45 @@
+C:\Users\denis\source\repos\sistemaVND\Dominio\bin\Debug\Dominio.dll
+C:\Users\denis\source\repos\sistemaVND\Dominio\bin\Debug\Dominio.pdb
+C:\Users\denis\source\repos\sistemaVND\Dominio\bin\Debug\DataAccess.dll
+C:\Users\denis\source\repos\sistemaVND\Dominio\bin\Debug\DataAccess.pdb
+C:\Users\denis\source\repos\sistemaVND\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\denis\source\repos\sistemaVND\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\sistemaVND\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\denis\source\repos\sistemaVND\Dominio\obj\Debug\Dominio.dll
+C:\Users\denis\source\repos\sistemaVND\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\Dominio\bin\Debug\Dominio.dll
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\Dominio\bin\Debug\DataAccess.dll
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\Dominio\bin\Debug\DataAccess.pdb
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\Dominio\obj\Debug\Dominio.dll
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\Dominio\bin\Debug\Dominio.dll
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\Dominio\bin\Debug\DataAccess.dll
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\Dominio\bin\Debug\DataAccess.pdb
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\Dominio\obj\Debug\Dominio.dll
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\Dominio\bin\Debug\Dominio.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\Dominio\bin\Debug\DataAccess.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\Dominio\bin\Debug\DataAccess.pdb
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\Dominio\obj\Debug\Dominio.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\Dominio\bin\Debug\Dominio.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\Dominio\bin\Debug\DataAccess.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\Dominio\bin\Debug\DataAccess.pdb
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\Dominio\obj\Debug\Dominio.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\Dominio\obj\Debug\Dominio.pdb

@@ -1,0 +1,183 @@
+<!DOCTYPE HTML>
+<!--------------->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Web Page Design</title>
+    <style>
+        table.border {
+            border-collapse: collapse;
+        }
+
+            table.border th {
+                padding: 5px;
+                border: 1px solid black;
+            }
+
+            table.border td {
+                padding: 5px;
+                border: 1px solid black;
+            }
+    </style>
+</head>
+<body>
+
+
+    <table style="width:100%">
+        <!------inicio primer fila--------->
+        <tr>
+            <td style="width:20%" align="center">ORDEN DE COMPRA</td>
+
+
+
+            <td style="width:60%" align="center">
+                <table>
+                    <tr><td align="center">FABINCAL CORDOBA SA</td></tr>
+                    <tr><td align="center">Juan Bautista Alberdi 450</td></tr>
+                    <tr><td align="center">La Calera, X5151, Córdoba</td></tr>
+                </table>
+            </td>
+
+
+
+            <td style="width:20%">
+                <table style="width:100%" class="border">
+                    <tr><td align="left">Fecha:</td><td align="left">@FECHA</td></tr>
+                    <tr><td align="left">Nro orden: </td><td align="left">@NRO</td></tr>
+                </table>
+            </td>
+
+        </tr>
+
+        <!------fin primer fila--------->
+        <!------inicio espacio--------->
+        <tr><td colspan="3" height="20"></td></tr>
+        <!------fin espacio--------->
+        <!------inicio tercer fila---->
+
+        <tr>
+            <td colspan="2">
+                <table style="width:100%">
+                    <tr>
+                        <td colspan="1" style="width:20%">Vendedor:</td>
+
+                    </tr>
+                    <tr>
+                        <td colspan="1" style="width:20%">Proveedor</td>
+                        <td colspan="3" style="width:80%; border-bottom:1px solid black">@PROVEEDOR</td>
+                    </tr>
+                    <tr>
+                        <td colspan="1" style="width:20%">Domicilio:</td>
+                        <td colspan="3" style="width:80%; border-bottom:1px solid black">@DOMICILIOP</td>
+                    </tr>
+                    <tr>
+                        <td colspan="1" style="width:20%">Telefono::</td>
+                        <td colspan="3" style="width:80%; border-bottom:1px solid black">@TELEFONOP</td>
+                    </tr>
+                    <tr>
+                        <td colspan="1" style="width:20%">Mail:</td>
+                        <td colspan="3" style="width:80%; border-bottom:1px solid black">@MAIL</td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <!------fin tercer fila--------->
+        <tr><td colspan="3" height="10"></td></tr>
+        <!------inicio cuarta fila--------->
+        <tr>
+            <td colspan="2">
+                <table style="width:100%">
+                    <tr>
+                        <td colspan="1" style="width:20%">Enviar a:</td>
+                    </tr>
+                    <tr>
+                        <td colspan="1" style="width:20%">Empresa:</td>
+                        <td colspan="3" style="width:80%; border-bottom:1px solid black">@EMPRESA</td>
+                    </tr>
+                    <tr>
+                        <td colspan="1" style="width:20%">Domiclio:</td>
+                        <td colspan="3" style="width:80%; border-bottom:1px solid black">@DOMICILIO</td>
+                    </tr>
+                    <tr>
+                        <td colspan="1" style="width:20%">Telefono:</td>
+                        <td colspan="3" style="width:80%; border-bottom:1px solid black">@TELEFONO</td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <!------fin cuarta fila--------->
+        <tr><td colspan="3" height="10"></td></tr>
+        <!------inicio de la tabla --------->
+        <tr>
+            <td colspan="3">
+                <table class="border" style="width:100%">
+                    <thead style="background-color:#22708E ">
+                        <tr>
+                            <th>Codigo</th>
+                            <th>Descripcion</th>
+                            <th>Cantidad</th>
+                            <th>P. unitario</th>
+                            <th>Total</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!--
+    <tr>
+        <td>1</td>
+        <td>desc</td>
+        <td>3</td>
+        <td>4,5</td>
+        <td>5</td>
+    </tr>-->
+                        @FILAS
+                        <tr>
+                            <td style="border: 0px !important"></td>
+                            <td style="border: 0px !important"></td>
+                            <td style="border: 0px !important"></td>
+                            <td align="right">SUBTOTAL::</td>
+                            <td>@SUBTOTAL</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+
+
+
+
+
+    </table>
+    <!------fin de la tabla --------->
+                        <!------inicio importes --------->
+                        <table style="width:25%" align="right">
+                            <tr>
+                                <td>
+                                    <table>
+                                        <tr>
+                                            <td>IVA:</td>
+                                            <td style="width:80%; border-bottom:1px solid black">@IVA</td>
+                                        </tr>
+                                        <tr>
+                                            <td>DESCUENTO:</td>
+                                            <td Style="width:80%; border-bottom:1px solid black">@DESCUENTO</td>
+                                        </tr>
+                                        <tr>
+                                            <td>ENVIO:</td>
+                                            <td style="width:80%; border-bottom:1px solid black">@ENVIO</td>
+                                        </tr>
+                                        <tr><td colspan="3" height="10"></td></tr>
+                                        <tr>
+                                            <td>IMPORTE TOTAL:</td>
+                                            <td style="width:80%; border-bottom:1px solid black">@TOTAL</td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                        <!------fin importes --------->
+
+
+
+
+
+</body>
+</html>

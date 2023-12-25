@@ -1,0 +1,18 @@
+C:\Users\denis\source\repos\sistemaVND\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\denis\source\repos\sistemaVND\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\denis\source\repos\sistemaVND\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\denis\source\repos\sistemaVND\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\sistemaVND\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\denis\source\repos\sistemaVND\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\DataAccess\obj\Debug\DataAccess.pdb

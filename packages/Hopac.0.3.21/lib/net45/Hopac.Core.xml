@@ -1,0 +1,633 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Hopac.Core</name>
+    </assembly>
+    <members>
+        <member name="T:Hopac.Ch`1">
+             <summary>Represents a synchronous channel.</summary>
+            </member>
+        <member name="T:Hopac.Core.ChGive`1">
+             Internal implementation detail.
+            </member>
+        <member name="M:Hopac.Core.ChGive`1.#ctor(Hopac.Ch{`0},`0)">
+             Internal implementation detail.
+            </member>
+        <member name="T:Hopac.Core.ChSend`1">
+             Internal implementation detail.
+            </member>
+        <member name="M:Hopac.Core.ChSend`1.#ctor(Hopac.Ch{`0},`0)">
+             Internal implementation detail.
+            </member>
+        <member name="T:Hopac.Core.ChSend`2">
+             Internal implementation detail.
+            </member>
+        <member name="M:Hopac.Core.ChSend`2.#ctor(Hopac.Ch{`0},`0,`1)">
+             Internal implementation detail.
+            </member>
+        <member name="T:Hopac.Core.ChTryGive`1">
+             Internal implementation detail.
+            </member>
+        <member name="M:Hopac.Core.ChTryGive`1.#ctor(Hopac.Ch{`0},`0)">
+             Internal implementation detail.
+            </member>
+        <member name="T:Hopac.Core.ChTryTake`1">
+             Internal implementation detail.
+            </member>
+        <member name="M:Hopac.Core.ChTryTake`1.#ctor(Hopac.Ch{`0})">
+             Internal implementation detail.
+            </member>
+        <member name="T:Hopac.IVar`1">
+             <summary>Represents a write once variable.</summary>
+            </member>
+        <member name="M:Hopac.IVar`1.#ctor">
+             <summary>Creates a new write once variable.</summary>
+            </member>
+        <member name="M:Hopac.IVar`1.#ctor(`0)">
+             <summary>Creates a new write once variable with the given value.</summary>
+            </member>
+        <member name="M:Hopac.IVar`1.#ctor(System.Exception)">
+             <summary>Creates a new write once variable with the given failure exception.</summary>
+            </member>
+        <member name="T:Hopac.IVar`1.Fill">
+             Internal implementation detail.
+            </member>
+        <member name="M:Hopac.IVar`1.Fill.#ctor(Hopac.IVar{`0},`0)">
+             Internal implementation detail.
+            </member>
+        <member name="T:Hopac.IVar`1.TryFill">
+             Internal implementation detail.
+            </member>
+        <member name="M:Hopac.IVar`1.TryFill.#ctor(Hopac.IVar{`0},`0)">
+             Internal implementation detail.
+            </member>
+        <member name="T:Hopac.IVar`1.TryFillFailure">
+             Internal implementation detail.
+            </member>
+        <member name="M:Hopac.IVar`1.TryFillFailure.#ctor(Hopac.IVar{`0},System.Exception)">
+             Internal implementation detail.
+            </member>
+        <member name="T:Hopac.IVar`1.FillFailure">
+             Internal implementation detail.
+            </member>
+        <member name="M:Hopac.IVar`1.FillFailure.#ctor(Hopac.IVar{`0},System.Exception)">
+             Internal implementation detail.
+            </member>
+        <member name="T:Hopac.Latch">
+             <summary>Represents a dynamic latch.</summary>
+            </member>
+        <member name="M:Hopac.Latch.#ctor(System.Int32)">
+            
+            </member>
+        <member name="M:Hopac.Latch.Increment">
+            
+            </member>
+        <member name="M:Hopac.Latch.Decrement">
+            
+            </member>
+        <member name="T:Hopac.Lock">
+             <summary>A non-recursive mutual exclusion lock for jobs.</summary>
+            </member>
+        <member name="T:Hopac.Core.LockDuringFun`1">
+             Internal implementation detail.
+            </member>
+        <member name="M:Hopac.Core.LockDuringFun`1.#ctor(Hopac.Lock,Microsoft.FSharp.Core.FSharpFunc{Microsoft.FSharp.Core.Unit,`0})">
+             Internal implementation detail.
+            </member>
+        <member name="T:Hopac.Core.LockDuringJob`1">
+             Internal implementation detail.
+            </member>
+        <member name="M:Hopac.Core.LockDuringJob`1.#ctor(Hopac.Lock,Hopac.Job{`0})">
+             Internal implementation detail.
+            </member>
+        <member name="T:Hopac.Mailbox`1">
+             <summary>Represents a asynchronous, unbounded buffered mailbox.</summary>
+            </member>
+        <member name="M:Hopac.Mailbox`1.#ctor">
+             <summary>Creates a new empty mailbox.</summary>
+            </member>
+        <member name="T:Hopac.Core.MailboxSend`1">
+             Internal implementation detail.
+            </member>
+        <member name="M:Hopac.Core.MailboxSend`1.#ctor(Hopac.Mailbox{`0},`0)">
+             Internal implementation detail.
+            </member>
+        <member name="T:Hopac.MVar`1">
+             <summary>Represents a serialized variable.</summary>
+            </member>
+        <member name="M:Hopac.MVar`1.#ctor">
+             <summary>Creates a new serialized variable.</summary>
+            </member>
+        <member name="M:Hopac.MVar`1.#ctor(`0)">
+             <summary>Creates a new serialized variable that is initially filled with the given value.</summary>
+            </member>
+        <member name="T:Hopac.Core.MVarRead`1">
+            
+            </member>
+        <member name="M:Hopac.Core.MVarRead`1.#ctor(Hopac.MVar{`0})">
+            
+            </member>
+        <member name="T:Hopac.Core.MVarModifyFun`2">
+            
+            </member>
+        <member name="M:Hopac.Core.MVarModifyFun`2.InternalInit(Hopac.MVar{`0})">
+            
+            </member>
+        <member name="M:Hopac.Core.MVarModifyFun`2.Do(`0,`1@)">
+            
+            </member>
+        <member name="T:Hopac.Core.MVarTryModifyFun`2">
+            
+            </member>
+        <member name="M:Hopac.Core.MVarTryModifyFun`2.InternalInit(Hopac.MVar{`0})">
+            
+            </member>
+        <member name="M:Hopac.Core.MVarTryModifyFun`2.Do(`0,`1@)">
+            
+            </member>
+        <member name="T:Hopac.Core.MVarFill`1">
+            
+            </member>
+        <member name="M:Hopac.Core.MVarFill`1.#ctor(Hopac.MVar{`0},`0)">
+            
+            </member>
+        <member name="T:Hopac.Once`1">
+            
+            </member>
+        <member name="M:Hopac.Once`1.#ctor(`0)">
+            
+            </member>
+        <member name="T:Hopac.Promise`1">
+             <summary>Represents a promise to produce a result at some point in the
+             future.</summary>
+            </member>
+        <member name="M:Hopac.Promise`1.#ctor">
+             <summary>Creates a promise that will never be fulfilled.</summary>
+            </member>
+        <member name="M:Hopac.Promise`1.#ctor(Hopac.Job{`0})">
+             <summary>Creates a promise whose value is computed lazily with the given
+             job when an attempt is made to read the promise.  Although the job is
+             not started immediately, the effect is that the delayed job will be run
+             as a separate job, which means it is possible to communicate with it as
+             long the delayed job is started before trying to communicate with
+             it.</summary>
+            </member>
+        <member name="M:Hopac.Promise`1.#ctor(`0)">
+             <summary>Creates a promise with the given value.</summary>
+            </member>
+        <member name="M:Hopac.Promise`1.#ctor(System.Exception)">
+             <summary>Creates a promise with the given failure exception.</summary>
+            </member>
+        <member name="P:Hopac.Promise`1.Full">
+             Internal implementation detail.
+            </member>
+        <member name="M:Hopac.Core.WaitQueue.AddGiver``1(Hopac.Core.Send{``0}@,``0,System.Int32,Hopac.Core.Pick,Hopac.Core.Cont{Microsoft.FSharp.Core.Unit})">
+             <summary>Note that this specifically tries to reuse a giver from the
+             queue.  This reduces the chance of space leaks.</summary>
+            </member>
+        <member name="M:Hopac.Core.WaitQueue.AddGiver``1(Hopac.Core.Send{``0}@,``0,Hopac.Core.Cont{Microsoft.FSharp.Core.Unit})">
+             <summary>Note that this specifically tries to reuse a giver from the
+             queue.  This reduces the chance of space leaks.</summary>
+            </member>
+        <member name="M:Hopac.Core.WaitQueue.AddTaker``1(Hopac.Core.Cont{``0}@,System.Int32,Hopac.Core.Pick,Hopac.Core.Cont{``0})">
+             <summary>Note that this specifically tries to reuse a taker from the
+             queue.  This reduces the chance of space leaks.</summary>
+            </member>
+        <member name="T:Hopac.Scheduler">
+             <summary>Represents a scheduler that manages a number of worker
+             threads.</summary>
+            </member>
+        <member name="M:Hopac.Scheduler.Kill(Hopac.Scheduler)">
+             <summary>Kills the worker threads of the scheduler one-by-one.  This
+             should only be used with a local scheduler that is known to be
+             idle.</summary>
+            </member>
+        <member name="T:Hopac.Core.StaticData">
+             <summary>This class contains some special static data used by the Hopac
+             library internal implementation.  The static members of this class are
+             normally implicitly initialized by the Hopac library, but it is possible
+             to write a program that accesses these variables too early.  In such a
+             corner case the program should explicitly arrange the `Init` method of
+             this class to be called.</summary>
+            </member>
+        <member name="F:Hopac.Core.StaticData.isMono">
+             <summary>Whether we are on Mono rather than .Net.</summary>
+            </member>
+        <member name="F:Hopac.Core.StaticData.unit">
+             <summary>Stores the single shared unit alternative.</summary>
+            </member>
+        <member name="F:Hopac.Core.StaticData.zero">
+             <summary>Stores the single shared zero alternative.</summary>
+            </member>
+        <member name="F:Hopac.Core.StaticData.scheduler">
+             <summary>Stores the single shared scheduler job.</summary>
+            </member>
+        <member name="F:Hopac.Core.StaticData.proc">
+             <summary>Stores the single shared proc job.</summary>
+            </member>
+        <member name="F:Hopac.Core.StaticData.switchToWorker">
+             <summary>Stores the single shared proc that switches execution to a
+             worker thread.</summary>
+            </member>
+        <member name="F:Hopac.Core.StaticData.random">
+             <summary>Stores the single shared proc that generates a random
+             number.</summary>
+            </member>
+        <member name="F:Hopac.Core.StaticData.workAsyncCallback">
+             <summary>Stores the single AsyncCallback delegate.</summary>
+            </member>
+        <member name="F:Hopac.Core.StaticData.writeLine">
+             <summary>Stores an action for printing diagnostics.</summary>
+            </member>
+        <member name="F:Hopac.Core.StaticData.createScheduler">
+             <summary>Function for creating a scheduler.</summary>
+            </member>
+        <member name="F:Hopac.Core.StaticData.globalScheduler">
+             <summary>The global scheduler (if it has been created).</summary>
+            </member>
+        <member name="F:Hopac.Core.StaticData.globalTimer">
+             <summary>The global timer (if it has been created).</summary>
+            </member>
+        <member name="F:Hopac.Core.StaticData.main">
+             <summary>The "main" thread synchronization context.  This must be
+             explicitly configured by the application.</summary>
+            </member>
+        <member name="M:Hopac.Core.StaticData.Init">
+             <summary>This is normally called automatically by Hopac library code.
+             This is safe to be called from multiple threads.</summary>
+            </member>
+        <member name="T:Hopac.Core.Work">
+             <summary>Work item.</summary>
+            </member>
+        <member name="T:Hopac.Core.IBindAsyncCont`1">
+            
+            </member>
+        <member name="M:Hopac.Core.IBindAsyncCont`1.Success(`0)">
+            
+            </member>
+        <member name="M:Hopac.Core.IBindAsyncCont`1.Failure(System.Exception)">
+            
+            </member>
+        <member name="T:Hopac.Core.BindAsyncCont`2">
+            
+            </member>
+        <member name="M:Hopac.Core.BindAsyncCont`2.Success(`0)">
+            
+            </member>
+        <member name="M:Hopac.Core.BindAsyncCont`2.Failure(System.Exception)">
+            
+            </member>
+        <member name="T:Hopac.Core.BindAsync`2">
+            
+            </member>
+        <member name="M:Hopac.Core.BindAsync`2.Do(`0)">
+            
+            </member>
+        <member name="M:Hopac.Core.BindAsync`2.Start(Hopac.Core.IBindAsyncCont{`0})">
+            
+            </member>
+        <member name="T:Hopac.Core.FromAsyncCont`1">
+            
+            </member>
+        <member name="M:Hopac.Core.FromAsyncCont`1.Success(`0)">
+            
+            </member>
+        <member name="M:Hopac.Core.FromAsyncCont`1.Failure(System.Exception)">
+            
+            </member>
+        <member name="T:Hopac.Core.FromAsync`1">
+            
+            </member>
+        <member name="M:Hopac.Core.FromAsync`1.Start(Hopac.Core.FromAsyncCont{`0})">
+            
+            </member>
+        <member name="T:Hopac.Core.FromBeginEnd`1">
+            
+            </member>
+        <member name="M:Hopac.Core.FromBeginEnd`1.DoBegin(System.AsyncCallback,System.Object)">
+            
+            </member>
+        <member name="M:Hopac.Core.FromBeginEnd`1.DoEnd(System.IAsyncResult)">
+            
+            </member>
+        <member name="M:Hopac.Core.FromBeginEnd`1.DoCancel(System.IAsyncResult)">
+            
+            </member>
+        <member name="T:Hopac.Core.BindTask`2">
+            
+            </member>
+        <member name="M:Hopac.Core.BindTask`2.InternalInit(System.Threading.Tasks.Task{`0})">
+            
+            </member>
+        <member name="M:Hopac.Core.BindTask`2.Do(`0)">
+            
+            </member>
+        <member name="T:Hopac.Core.BindTask`1">
+            
+            </member>
+        <member name="M:Hopac.Core.BindTask`1.InternalInit(System.Threading.Tasks.Task)">
+            
+            </member>
+        <member name="M:Hopac.Core.BindTask`1.Do">
+            
+            </member>
+        <member name="T:Hopac.Core.TaskToJob`1">
+            
+            </member>
+        <member name="M:Hopac.Core.TaskToJob`1.Start">
+            
+            </member>
+        <member name="T:Hopac.Core.TaskToJob">
+            
+            </member>
+        <member name="M:Hopac.Core.TaskToJob.Start">
+            
+            </member>
+        <member name="T:Hopac.Core.TaskToAlt`1">
+            
+            </member>
+        <member name="M:Hopac.Core.TaskToAlt`1.Start(System.Threading.CancellationToken)">
+            
+            </member>
+        <member name="T:Hopac.Core.TaskToAlt">
+            
+            </member>
+        <member name="M:Hopac.Core.TaskToAlt.Start(System.Threading.CancellationToken)">
+            
+            </member>
+        <member name="T:Hopac.Core.Cont`1">
+             <summary>Represents a continuation of a parallel job.</summary>
+            </member>
+        <member name="M:Hopac.Core.Cont`1.DoCont(Hopac.Core.Worker@,`0)">
+             Use DoCont when NOT invoking continuation from a Job or Alt.
+            </member>
+        <member name="T:Hopac.Core.ContIterate`2">
+            
+            </member>
+        <member name="M:Hopac.Core.ContIterate`2.InternalInit(`0,Hopac.Core.Cont{`1})">
+            
+            </member>
+        <member name="M:Hopac.Core.ContIterate`2.Do(`0)">
+            
+            </member>
+        <member name="M:Hopac.Core.Cont.Do``1(Hopac.Core.Cont{``0},Hopac.Core.Worker@,``0)">
+             Use Cont.Do when invoking continuation from a Job or Alt.
+            </member>
+        <member name="T:Hopac.Core.Handler">
+             <summary>Exception handling continuation.</summary>
+            </member>
+        <member name="M:Hopac.Core.Handler.DoHandle(Hopac.Core.Worker@,System.Exception)">
+             <summary>Do not call this directly unless you know that the handler is not null.</summary>
+            </member>
+        <member name="M:Hopac.Core.Handler.GetProc(Hopac.Core.Worker@)">
+             <summary>Do not call this directly unless you know that the handler is not null.</summary>
+            </member>
+        <member name="T:Hopac.Job`1">
+             <summary>Represents a lightweight thread of execution.</summary>
+            </member>
+        <member name="T:Hopac.Core.JobCont`2">
+            
+            </member>
+        <member name="M:Hopac.Core.JobCont`2.InternalInit(Hopac.Job{`0})">
+            
+            </member>
+        <member name="M:Hopac.Core.JobCont`2.Do">
+            
+            </member>
+        <member name="T:Hopac.Core.JobContCont`2">
+            
+            </member>
+        <member name="T:Hopac.Core.ContBind`2">
+            
+            </member>
+        <member name="M:Hopac.Core.ContBind`2.Do(`0)">
+            
+            </member>
+        <member name="T:Hopac.Core.ContMap`2">
+            
+            </member>
+        <member name="M:Hopac.Core.ContMap`2.Do(`0)">
+            
+            </member>
+        <member name="T:Hopac.Core.JobUsing`2">
+            
+            </member>
+        <member name="M:Hopac.Core.JobUsing`2.InternalInit(`0)">
+            
+            </member>
+        <member name="M:Hopac.Core.JobUsing`2.Do(`0)">
+            
+            </member>
+        <member name="T:Hopac.Core.JobFor`3">
+            
+            </member>
+        <member name="M:Hopac.Core.JobFor`3.Init(`0@)">
+            
+            </member>
+        <member name="M:Hopac.Core.JobFor`3.Uninit(`0@)">
+            
+            </member>
+        <member name="M:Hopac.Core.JobFor`3.Next(`1,`0@)">
+            
+            </member>
+        <member name="M:Hopac.Core.JobFor`3.Finish(`0@,`2@)">
+            
+            </member>
+        <member name="M:Hopac.Core.JobFor`3.DoJob(Hopac.Core.Worker@,Hopac.Core.Cont{`2})">
+            
+            </member>
+        <member name="T:Hopac.Core.JobWhileDoDelay`1">
+            
+            </member>
+        <member name="M:Hopac.Core.JobWhileDoDelay`1.Do">
+            
+            </member>
+        <member name="T:Hopac.Core.JobJoin`2">
+            
+            </member>
+        <member name="M:Hopac.Core.JobJoin`2.InternalInit(Hopac.Job{`1})">
+            
+            </member>
+        <member name="T:Hopac.Core.JobTryInCont`2">
+            
+            </member>
+        <member name="M:Hopac.Core.JobTryInCont`2.DoIn(`0)">
+            
+            </member>
+        <member name="M:Hopac.Core.JobTryInCont`2.DoExn(System.Exception)">
+            
+            </member>
+        <member name="T:Hopac.Core.JobTryInBase`2">
+            
+            </member>
+        <member name="M:Hopac.Core.JobTryInBase`2.DoCont">
+            
+            </member>
+        <member name="T:Hopac.Core.JobTryIn`2">
+            
+            </member>
+        <member name="M:Hopac.Core.JobTryIn`2.InternalInit(Hopac.Job{`0})">
+            
+            </member>
+        <member name="T:Hopac.Core.JobTryInDelay`2">
+            
+            </member>
+        <member name="M:Hopac.Core.JobTryInDelay`2.DoDelay">
+            
+            </member>
+        <member name="T:Hopac.Core.ContTryWith`1">
+            
+            </member>
+        <member name="M:Hopac.Core.ContTryWith`1.DoExn(System.Exception)">
+            
+            </member>
+        <member name="T:Hopac.Core.JobTryWithBase`1">
+            
+            </member>
+        <member name="M:Hopac.Core.JobTryWithBase`1.DoCont">
+            
+            </member>
+        <member name="T:Hopac.Core.JobTryWith`1">
+            
+            </member>
+        <member name="M:Hopac.Core.JobTryWith`1.InternalInit(Hopac.Job{`0})">
+            
+            </member>
+        <member name="T:Hopac.Core.JobTryWithDelay`1">
+            
+            </member>
+        <member name="M:Hopac.Core.JobTryWithDelay`1.Do">
+            
+            </member>
+        <member name="T:Hopac.Core.JobRun`1">
+            
+            </member>
+        <member name="M:Hopac.Core.JobRun`1.Do(Hopac.Core.Cont{`0})">
+            
+            </member>
+        <member name="T:Hopac.Core.JobStart">
+            
+            </member>
+        <member name="M:Hopac.Core.JobStart.Do">
+            
+            </member>
+        <member name="T:Hopac.Core.JobDelay`1">
+            
+            </member>
+        <member name="M:Hopac.Core.JobDelay`1.Do">
+            
+            </member>
+        <member name="T:Hopac.Core.JobThunk`1">
+            
+            </member>
+        <member name="M:Hopac.Core.JobThunk`1.Do">
+            
+            </member>
+        <member name="T:Hopac.Core.JobIsolate`1">
+            
+            </member>
+        <member name="M:Hopac.Core.JobIsolate`1.Do">
+            
+            </member>
+        <member name="T:Hopac.Core.JobSchedulerBind`1">
+            
+            </member>
+        <member name="M:Hopac.Core.JobSchedulerBind`1.Do(Hopac.Scheduler)">
+            
+            </member>
+        <member name="T:Hopac.Core.JobProcBind`1">
+            
+            </member>
+        <member name="M:Hopac.Core.JobProcBind`1.Do(Hopac.Proc)">
+            
+            </member>
+        <member name="T:Hopac.Core.JobProcMap`1">
+            
+            </member>
+        <member name="M:Hopac.Core.JobProcMap`1.Do(Hopac.Proc)">
+            
+            </member>
+        <member name="T:Hopac.Core.JobRandomBind`1">
+            
+            </member>
+        <member name="M:Hopac.Core.JobRandomBind`1.Do(System.UInt64)">
+            
+            </member>
+        <member name="T:Hopac.Core.JobRandomMap`1">
+            
+            </member>
+        <member name="M:Hopac.Core.JobRandomMap`1.Do(System.UInt64)">
+            
+            </member>
+        <member name="T:Hopac.Core.JobRandomGet">
+            
+            </member>
+        <member name="M:Hopac.Core.JobRandomGet.DoJob(Hopac.Core.Worker@,Hopac.Core.Cont{System.UInt64})">
+            
+            </member>
+        <member name="T:Hopac.Proc">
+             <summary>Represents a joinable lightweight thread of execution.</summary>
+            </member>
+        <member name="T:Hopac.Alt`1">
+             <summary>Represents a first class synchronous operation.</summary>
+            </member>
+        <member name="T:Hopac.Core.AltAfter`2">
+            
+            </member>
+        <member name="M:Hopac.Core.AltAfter`2.InternalInit(Hopac.Alt{`0})">
+            
+            </member>
+        <member name="M:Hopac.Core.AltAfter`2.Do">
+            
+            </member>
+        <member name="T:Hopac.Core.AltPrepareFun`1">
+            
+            </member>
+        <member name="M:Hopac.Core.AltPrepareFun`1.Do">
+            
+            </member>
+        <member name="T:Hopac.Core.AltPrepareJob`2">
+            
+            </member>
+        <member name="M:Hopac.Core.AltPrepareJob`2.Do">
+            
+            </member>
+        <member name="T:Hopac.Core.AltRandom`1">
+            
+            </member>
+        <member name="M:Hopac.Core.AltRandom`1.Do(System.UInt64)">
+            
+            </member>
+        <member name="T:Hopac.Core.AltWithNackJob`2">
+            
+            </member>
+        <member name="M:Hopac.Core.AltWithNackJob`2.Do(Hopac.Promise{Microsoft.FSharp.Core.Unit})">
+            
+            </member>
+        <member name="T:Hopac.Core.AltWithNackFun`1">
+            
+            </member>
+        <member name="M:Hopac.Core.AltWithNackFun`1.Do(Hopac.Promise{Microsoft.FSharp.Core.Unit})">
+            
+            </member>
+        <member name="T:Hopac.Core.Always`1">
+             Internal implementation detail.
+            </member>
+        <member name="M:Hopac.Core.Always`1.#ctor(`0)">
+             Internal implementation detail.
+            </member>
+        <member name="T:Hopac.Core.Never`1">
+            
+            </member>
+        <member name="T:Hopac.Core.Condition">
+             <summary>Provides a low overhead, single shot waitable event.</summary>
+            </member>
+        <member name="T:Hopac.Core.SpinlockTTAS">
+             <summary>Provides a low overhead spinlock that is about as fast as
+             possible in case of low contention, but also becomes slow in case of
+             contention.  On every change of owner this spinlock implementation
+             requires Omega(n) cache line transfers, where n is the number of threads
+             waiting for the lock, and is thus inherently unscalable.</summary>
+            </member>
+    </members>
+</doc>

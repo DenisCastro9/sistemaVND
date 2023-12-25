@@ -1,0 +1,89 @@
+<!DOCTYPE HTML>
+<!--------------->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Web Page Design</title>
+    <style>
+        table.border {
+            border-collapse: collapse;
+        }
+
+            table.border th {
+                padding: 5px;
+                border: 1px solid black;
+            }
+
+            table.border td {
+                padding: 5px;
+                border: 1px solid black;
+            }
+    </style>
+</head>
+<body>
+
+
+    <table style="width:100%">
+        <!------inicio primer fila--------->
+        <tr>
+            <td style="width:20%" align="center"></td>
+
+
+
+            <td style="width:60%" align="center">
+                <table>
+                    <tr><td align="center">FABINCAL CORDOBA SA</td></tr>
+                    <tr><td align="center">LISTA DE CLIENTES</td></tr>
+                </table>
+            </td>
+
+
+
+            <td style="width:20%">
+                <table style="width:100%" class="border">
+                    <tr><td align="left">Fecha:</td><td align="left">@FECHA</td></tr>
+                </table>
+            </td>
+
+        </tr>
+
+        <!------fin primer fila--------->
+        <!------inicio espacio--------->
+        <tr><td colspan="3" height="20"></td></tr>
+        <!------fin espacio--------->
+        <!------inicio de la tabla --------->
+        <tr>
+            <td colspan="3">
+                <table class="border" style="width:100%">
+                    <thead style="background-color:#22708E ">
+                        <tr>
+                            <th>Nombre</th>
+                            <th>Cuit</th>
+                            <th>Condicion I.V.A.</th>
+                            <th>Ingresos Brutos</th>
+                            <th>Telefono</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!--
+                        <tr>
+                            <td>1</td>
+                            <td>desc</td>
+                            <td>3</td>
+                            <td>5</td>
+                        </tr> -->
+                        @FILAS
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+
+
+
+
+
+    </table>
+    <!------fin de la tabla --------->
+
+
+</body>
+</html>

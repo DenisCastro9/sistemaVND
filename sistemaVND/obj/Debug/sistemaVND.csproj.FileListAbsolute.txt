@@ -1,0 +1,733 @@
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\sistemaVND.exe.config
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\sistemaVND.exe
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\sistemaVND.pdb
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\Dominio.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\DataAccess.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\Dominio.pdb
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\DataAccess.pdb
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.csproj.AssemblyReference.cache
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.ArticulosRegistrados.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.BuscarDetallePEdido.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.consultarMateriaPrima.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.login.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.MateriaPrimaPorArticulo.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.menuPrincipal.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.modificarClaveUsuario.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.modificarUsuario.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.Properties.Resources.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.RegistrarArticulo.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.registrarCliente.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.registrarMateriaPrima.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.RegistrarPedido.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.registrarUsuario.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.stockArticulos.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.VerStockArticulos.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.csproj.GenerateResource.cache
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.csproj.CopyComplete
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.exe
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.pdb
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.consultarIngresoEgreso.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistemaVND\bin\Debug\sistemaVND.exe.config
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistemaVND\bin\Debug\sistemaVND.exe
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistemaVND\bin\Debug\sistemaVND.pdb
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistemaVND\bin\Debug\Dominio.dll
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistemaVND\bin\Debug\DataAccess.dll
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistemaVND\bin\Debug\Dominio.pdb
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistemaVND\bin\Debug\DataAccess.pdb
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistemaVND\obj\Debug\sistemaVND.csproj.AssemblyReference.cache
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistemaVND\obj\Debug\sistemaVND.AceptarRemito.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistemaVND\obj\Debug\sistemaVND.ArticulosRegistrados.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistemaVND\obj\Debug\sistemaVND.BuscarDetallePEdido.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistemaVND\obj\Debug\sistemaVND.BuscarPedidoParaFactura.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistemaVND\obj\Debug\sistemaVND.BuscarPedidoParaRemito.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistemaVND\obj\Debug\sistemaVND.ConfirmarFactura.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistemaVND\obj\Debug\sistemaVND.consultarClientes.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistemaVND\obj\Debug\sistemaVND.consultarIngresoEgreso.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistemaVND\obj\Debug\sistemaVND.consultarMateriaPrima.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistemaVND\obj\Debug\sistemaVND.ConsultarRemito.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistemaVND\obj\Debug\sistemaVND.FacturasRegistradas.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistemaVND\obj\Debug\sistemaVND.FacturaVerEnPantalla.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistemaVND\obj\Debug\sistemaVND.login.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistemaVND\obj\Debug\sistemaVND.MateriaPrimaPorArticulo.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistemaVND\obj\Debug\sistemaVND.menuPrincipal.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistemaVND\obj\Debug\sistemaVND.modificarClaveUsuario.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistemaVND\obj\Debug\sistemaVND.modificarCliente.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistemaVND\obj\Debug\sistemaVND.modificarUsuario.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistemaVND\obj\Debug\sistemaVND.Properties.Resources.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistemaVND\obj\Debug\sistemaVND.RegistrarArticulo.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistemaVND\obj\Debug\sistemaVND.registrarCliente.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistemaVND\obj\Debug\sistemaVND.RegistrarFacturacion.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistemaVND\obj\Debug\sistemaVND.registrarMateriaPrima.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistemaVND\obj\Debug\sistemaVND.RegistrarPedido.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistemaVND\obj\Debug\sistemaVND.RegistrarRemito.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistemaVND\obj\Debug\sistemaVND.registrarUsuario.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistemaVND\obj\Debug\sistemaVND.RemitoVerEnPantalla.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistemaVND\obj\Debug\sistemaVND.SeleccionarArtRegistrados.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistemaVND\obj\Debug\sistemaVND.SelecionarArtEnStock.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistemaVND\obj\Debug\sistemaVND.stockArticulos.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistemaVND\obj\Debug\sistemaVND.VerStockArticulos.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistemaVND\obj\Debug\sistemaVND.csproj.GenerateResource.cache
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistemaVND\obj\Debug\sistemaVND.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistemaVND\obj\Debug\sistemaVND.csproj.CopyComplete
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistemaVND\obj\Debug\sistemaVND.exe
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistemaVND\obj\Debug\sistemaVND.pdb
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistemaVND\obj\Debug\sistemaVND.AceptarFactura.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistemaVND\obj\Debug\sistemaVND.FacturaVerDetalle.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\bin\Debug\sistemaVND.exe.config
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\bin\Debug\sistemaVND.exe
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\bin\Debug\sistemaVND.pdb
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\bin\Debug\Dominio.dll
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\bin\Debug\DataAccess.dll
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\bin\Debug\Dominio.pdb
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\bin\Debug\DataAccess.pdb
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\obj\Debug\sistemaVND.csproj.AssemblyReference.cache
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\obj\Debug\sistemaVND.AceptarFactura.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\obj\Debug\sistemaVND.AceptarRemito.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\obj\Debug\sistemaVND.ArticulosRegistrados.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\obj\Debug\sistemaVND.BuscarDetallePEdido.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\obj\Debug\sistemaVND.BuscarPedidoParaFactura.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\obj\Debug\sistemaVND.BuscarPedidoParaRemito.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\obj\Debug\sistemaVND.ConfirmarFactura.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\obj\Debug\sistemaVND.consultarIngresoEgreso.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\obj\Debug\sistemaVND.consultarMateriaPrima.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\obj\Debug\sistemaVND.ConsultarRemito.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\obj\Debug\sistemaVND.FacturasRegistradas.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\obj\Debug\sistemaVND.FacturaVerDetalle.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\obj\Debug\sistemaVND.FacturaVerEnPantalla.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\obj\Debug\sistemaVND.login.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\obj\Debug\sistemaVND.MateriaPrimaPorArticulo.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\obj\Debug\sistemaVND.menuPrincipal.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\obj\Debug\sistemaVND.modificarClaveUsuario.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\obj\Debug\sistemaVND.modificarUsuario.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\obj\Debug\sistemaVND.Properties.Resources.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\obj\Debug\sistemaVND.RegistrarArticulo.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\obj\Debug\sistemaVND.registrarCliente.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\obj\Debug\sistemaVND.RegistrarFacturacion.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\obj\Debug\sistemaVND.registrarMateriaPrima.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\obj\Debug\sistemaVND.RegistrarPedido.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\obj\Debug\sistemaVND.RegistrarRemito.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\obj\Debug\sistemaVND.registrarUsuario.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\obj\Debug\sistemaVND.RemitoVerEnPantalla.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\obj\Debug\sistemaVND.SeleccionarArtRegistrados.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\obj\Debug\sistemaVND.SelecionarArtEnStock.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\obj\Debug\sistemaVND.stockArticulos.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\obj\Debug\sistemaVND.VerStockArticulos.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\obj\Debug\sistemaVND.csproj.GenerateResource.cache
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\obj\Debug\sistemaVND.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\obj\Debug\sistemaVND.csproj.CopyComplete
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\obj\Debug\sistemaVND.exe
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\obj\Debug\sistemaVND.pdb
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\obj\Debug\sistemaVND.reporteTallesPedidos.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\obj\Debug\sistemaVND.diseño.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\obj\Debug\sistemaVND.ReporteClientePedidos.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\obj\Debug\sistemaVND.BorradorMenu.resources
+C:\Users\Usuario\PRACTICA PROFESIONAL\sistemaVND .NET Framework\sistemaVND\sistema\sistemaVND\obj\Debug\sistemaVND.consultarCliente.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.consultarCliente.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.BuscarPedidoParaFactura.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.BuscarPedidoParaRemito.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.ConfirmarFactura.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.ConsultarRemito.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.diseño.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.FacturasRegistradas.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.FacturaVerDetalle.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.FacturaVerEnPantalla.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.RegistrarFacturacion.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.RegistrarRemito.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.RemitoVerEnPantalla.resources
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\bin\Debug\sistemaVND.exe.config
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\bin\Debug\sistemaVND.exe
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\bin\Debug\sistemaVND.pdb
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\bin\Debug\Dominio.dll
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\bin\Debug\DataAccess.dll
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\bin\Debug\Dominio.pdb
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\bin\Debug\DataAccess.pdb
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\obj\Debug\sistemaVND.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\obj\Debug\sistemaVND.AceptarFactura.resources
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\obj\Debug\sistemaVND.AceptarRemito.resources
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\obj\Debug\sistemaVND.ArticulosRegistrados.resources
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\obj\Debug\sistemaVND.RegistrarCliente.resources
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\obj\Debug\sistemaVND.consultarCliente.resources
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\obj\Debug\sistemaVND.BuscarDetallePEdido.resources
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\obj\Debug\sistemaVND.BuscarPedidoParaFactura.resources
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\obj\Debug\sistemaVND.BuscarPedidoParaRemito.resources
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\obj\Debug\sistemaVND.ConfirmarFactura.resources
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\obj\Debug\sistemaVND.consultarIngresoEgreso.resources
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\obj\Debug\sistemaVND.consultarMateriaPrima.resources
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\obj\Debug\sistemaVND.ConsultarRemito.resources
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\obj\Debug\sistemaVND.diseño.resources
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\obj\Debug\sistemaVND.FacturasRegistradas.resources
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\obj\Debug\sistemaVND.FacturaVerDetalle.resources
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\obj\Debug\sistemaVND.FacturaVerEnPantalla.resources
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\obj\Debug\sistemaVND.login.resources
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\obj\Debug\sistemaVND.MateriaPrimaPorArticulo.resources
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\obj\Debug\sistemaVND.menuPrincipal.resources
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\obj\Debug\sistemaVND.modificarClaveUsuario.resources
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\obj\Debug\sistemaVND.modificarUsuario.resources
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\obj\Debug\sistemaVND.Properties.Resources.resources
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\obj\Debug\sistemaVND.RegistrarArticulo.resources
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\obj\Debug\sistemaVND.RegistrarFacturacion.resources
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\obj\Debug\sistemaVND.registrarMateriaPrima.resources
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\obj\Debug\sistemaVND.RegistrarPedido.resources
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\obj\Debug\sistemaVND.RegistrarRemito.resources
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\obj\Debug\sistemaVND.registrarUsuario.resources
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\obj\Debug\sistemaVND.RemitoVerEnPantalla.resources
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\obj\Debug\sistemaVND.ReporteClientePedidos.resources
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\obj\Debug\sistemaVND.reporteTallesPedidos.resources
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\obj\Debug\sistemaVND.SeleccionarArtRegistrados.resources
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\obj\Debug\sistemaVND.SelecionarArtEnStock.resources
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\obj\Debug\sistemaVND.stockArticulos.resources
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\obj\Debug\sistemaVND.VerStockArticulos.resources
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\obj\Debug\sistemaVND.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\obj\Debug\sistemaVND.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\obj\Debug\sistemaVND.csproj.CopyComplete
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\obj\Debug\sistemaVND.exe
+C:\Users\Usuario\Downloads\sistemaVND decime si te gusta jajaja\sistemaVND\sistemaVND\obj\Debug\sistemaVND.pdb
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\bin\Debug\sistemaVND.exe.config
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\bin\Debug\sistemaVND.exe
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\bin\Debug\sistemaVND.pdb
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\bin\Debug\Dominio.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\bin\Debug\DataAccess.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\bin\Debug\Dominio.pdb
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\bin\Debug\DataAccess.pdb
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\obj\Debug\sistemaVND.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\obj\Debug\sistemaVND.AceptarFactura.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\obj\Debug\sistemaVND.AceptarRemito.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\obj\Debug\sistemaVND.ArticulosRegistrados.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\obj\Debug\sistemaVND.RegistrarCliente.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\obj\Debug\sistemaVND.consultarCliente.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\obj\Debug\sistemaVND.BuscarDetallePEdido.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\obj\Debug\sistemaVND.BuscarPedidoParaFactura.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\obj\Debug\sistemaVND.BuscarPedidoParaRemito.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\obj\Debug\sistemaVND.ConfirmarFactura.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\obj\Debug\sistemaVND.consultarIngresoEgreso.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\obj\Debug\sistemaVND.consultarMateriaPrima.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\obj\Debug\sistemaVND.ConsultarRemito.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\obj\Debug\sistemaVND.diseño.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\obj\Debug\sistemaVND.FacturasRegistradas.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\obj\Debug\sistemaVND.FacturaVerDetalle.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\obj\Debug\sistemaVND.FacturaVerEnPantalla.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\obj\Debug\sistemaVND.login.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\obj\Debug\sistemaVND.MateriaPrimaPorArticulo.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\obj\Debug\sistemaVND.menuPrincipal.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\obj\Debug\sistemaVND.modificarClaveUsuario.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\obj\Debug\sistemaVND.modificarUsuario.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\obj\Debug\sistemaVND.Properties.Resources.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\obj\Debug\sistemaVND.RegistrarArticulo.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\obj\Debug\sistemaVND.RegistrarFacturacion.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\obj\Debug\sistemaVND.registrarMateriaPrima.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\obj\Debug\sistemaVND.RegistrarPedido.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\obj\Debug\sistemaVND.RegistrarRemito.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\obj\Debug\sistemaVND.registrarUsuario.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\obj\Debug\sistemaVND.RemitoVerEnPantalla.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\obj\Debug\sistemaVND.ReporteClientePedidos.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\obj\Debug\sistemaVND.reporteTallesPedidos.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\obj\Debug\sistemaVND.SeleccionarArtRegistrados.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\obj\Debug\sistemaVND.SelecionarArtEnStock.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\obj\Debug\sistemaVND.stockArticulos.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\obj\Debug\sistemaVND.VerStockArticulos.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\obj\Debug\sistemaVND.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\obj\Debug\sistemaVND.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\obj\Debug\sistemaVND.csproj.CopyComplete
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\obj\Debug\sistemaVND.exe
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\obj\Debug\sistemaVND.pdb
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\obj\Debug\sistemaVND.FichaDeCliente.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND\sistemaVND\obj\Debug\sistemaVND.VerTodosLosPedidos.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.FichaDeCliente.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.FichaMateriaPrima.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.VerTodosLosPedidos.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\sistemaVND.exe.config
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\sistemaVND.exe
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\sistemaVND.pdb
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Dominio.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\DataAccess.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Dominio.pdb
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\DataAccess.pdb
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.ArticulosRegistrados.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.consultarIngresoEgreso.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.FichaDeCliente.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.FichaMateriaPrima.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.menuPrincipal.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.RegistrarCliente.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.consultarCliente.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.BuscarDetallePEdido.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.BuscarPedidoParaFactura.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.BuscarPedidoParaRemito.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.ConfirmarFactura.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.consultarMateriaPrima.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.ConsultarRemito.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.diseño.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.FacturasRegistradas.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.FacturaVerDetalle.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.FacturaVerEnPantalla.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.login.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.MateriaPrimaPorArticulo.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.modificarClaveUsuario.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.modificarUsuario.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.Properties.Resources.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.RegistrarArticulo.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.RegistrarFacturacion.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.RegistrarPedido.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.RegistrarRemito.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.registrarUsuario.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.RemitoVerEnPantalla.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.stockArticulos.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.VerStockArticulos.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.VerTodosLosPedidos.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.csproj.CopyComplete
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.exe
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.pdb
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.ModificarClienteCredito.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.SeleccionarClienteModificarCredito.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.registrarMateriaPrima.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.ConfigDeposito.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.ConsultarOrdenDeCompra.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.RegistrarOrdenDeCompra.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.DetalleOrdenDeCompra.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.DetalleOrdenCRecibida.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Aspose.HTML.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\System.Drawing.Common.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\System.Memory.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\System.Security.Permissions.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Aspose.HTML.xml
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\System.Buffers.xml
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\System.Memory.xml
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.consultarProveedor.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.registrarLocalidad.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.registrarProveedor.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.registrarProvincia.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.InformesOrdenDeCompra.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Aether.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Chiron.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\FluentEmail.Core.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\FluentEmail.Mailgun.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\FParsec.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\FParsecCS.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\FSharp.Core.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Hopac.Core.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Hopac.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Hopac.Platform.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\HtmlRenderer.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\HtmlRenderer.PdfSharp.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\HttpFs.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Mailgun.Api.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\MailKit.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\MimeKit.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\NodaTime.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\PdfSharp.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\RestSharp.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\System.Text.Json.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Aether.pdb
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Aether.xml
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Chiron.pdb
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Chiron.xml
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\FParsec.xml
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\FParsecCS.xml
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\FSharp.Core.xml
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Hopac.xml
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Hopac.Core.xml
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\HtmlRenderer.pdb
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\HtmlRenderer.PdfSharp.pdb
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\HttpFs.xml
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Mailgun.Api.xml
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\MailKit.pdb
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\MailKit.xml
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\MailKit.dll.config
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\MimeKit.pdb
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\MimeKit.xml
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\MimeKit.dll.config
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\NodaTime.xml
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\PdfSharp.xml
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\RestSharp.xml
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\System.Text.Json.xml
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\System.ValueTuple.xml
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Google.Apis.Core.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Google.Apis.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Google.Apis.pdb
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Google.Apis.xml
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Google.Apis.Core.xml
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.FichaArticulo.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.SeleccionarArticuloParaMateriaPrima.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.ConsultarOrdenF.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.ConsultarStockParaOrdenF.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.Fabricacion.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.RegistroOrdenFCompararStock.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.seleccionarPedidoParaOrdenF.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.CantidadMPxArticulo.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.SeleccionarArtParaCantidadMP.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.RegistrarOrdenDeF.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.DetalleOrdenFporHacer.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.DetalleOrdenF.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.FichaPedido.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.VerMPempleada.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.FichaOrdenFParaConsulta.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.ConsultarPedido.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.ModificarPrecioArt.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.SeleccionarArtModifPrecio.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.ModificarPedido.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.PreciosAriculos.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.consultarTransportista.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.registrarTransportista.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.EstadisticaArticuloStock.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.EstadisticaMPstock.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.EstadisticaClientesVentas.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.EstadisticaVentas.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.EstadisticaOrdenesF.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.consultarUsuarios.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.eliminarUsuario.resources
+C:\Users\Usuario\Desktop\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.enviarMailOrdenDeCompra.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\sistemaVND.exe.config
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\sistemaVND.exe
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\sistemaVND.pdb
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Aether.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Aspose.HTML.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Chiron.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Dominio.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\FluentEmail.Core.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\FluentEmail.Mailgun.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\FParsec.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\FParsecCS.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\FSharp.Core.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Google.Apis.Core.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Google.Apis.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Hopac.Core.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Hopac.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Hopac.Platform.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\HtmlRenderer.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\HtmlRenderer.PdfSharp.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\HttpFs.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Mailgun.Api.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\MailKit.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\MimeKit.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\NodaTime.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\PdfSharp.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\RestSharp.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\System.Drawing.Common.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\System.Memory.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\System.Security.Permissions.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\System.Text.Json.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\DataAccess.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Dominio.pdb
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Aether.pdb
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Aether.xml
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Aspose.HTML.xml
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Chiron.pdb
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Chiron.xml
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\FParsec.xml
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\FParsecCS.xml
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\FSharp.Core.xml
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Google.Apis.pdb
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Google.Apis.xml
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Google.Apis.Core.xml
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Hopac.xml
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Hopac.Core.xml
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\HtmlRenderer.pdb
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\HtmlRenderer.PdfSharp.pdb
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\HttpFs.xml
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Mailgun.Api.xml
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\MailKit.pdb
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\MailKit.xml
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\MailKit.dll.config
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\MimeKit.pdb
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\MimeKit.xml
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\MimeKit.dll.config
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\NodaTime.xml
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\PdfSharp.xml
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\RestSharp.xml
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\System.Buffers.xml
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\System.Memory.xml
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\System.Text.Json.xml
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\System.ValueTuple.xml
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\DataAccess.pdb
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.ArticulosRegistrados.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.CantidadMPxArticulo.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.ConfigDeposito.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.consultarIngresoEgreso.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.consultarMateriaPrima.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.ConsultarOrdenDeCompra.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.ConsultarOrdenF.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.ConsultarPedido.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.consultarProveedor.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.ConsultarStockParaOrdenF.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.consultarTransportista.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.consultarUsuarios.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.DetalleOrdenCRecibida.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.DetalleOrdenDeCompra.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.DetalleOrdenF.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.DetalleOrdenFporHacer.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.eliminarUsuario.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.enviarMailOrdenDeCompra.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.EstadisticaArticuloStock.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.EstadisticaClientesVentas.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.EstadisticaMPstock.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.EstadisticaOrdenesF.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.EstadisticaVentas.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.Fabricacion.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.FichaArticulo.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.FichaDeCliente.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.FichaMateriaPrima.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.FichaOrdenFParaConsulta.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.FichaPedido.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.InformesOrdenDeCompra.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.menuPrincipal.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.modificarClaveUsuario.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.ModificarClienteCredito.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.ModificarPedido.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.ModificarPrecioArt.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.PreciosAriculos.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.RegistrarCliente.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.consultarCliente.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.BuscarDetallePEdido.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.BuscarPedidoParaFactura.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.BuscarPedidoParaRemito.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.ConfirmarFactura.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.ConsultarRemito.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.diseño.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.FacturasRegistradas.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.FacturaVerDetalle.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.FacturaVerEnPantalla.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.login.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.MateriaPrimaPorArticulo.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.modificarUsuario.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.RegistrarArticulo.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.RegistrarFacturacion.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.registrarLocalidad.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.registrarMateriaPrima.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.RegistrarOrdenDeCompra.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.RegistrarOrdenDeF.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.RegistrarPedido.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.registrarProveedor.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.registrarProvincia.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.RegistrarRemito.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.registrarTransportista.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.registrarUsuario.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.RegistroOrdenFCompararStock.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.RemitoVerEnPantalla.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.SeleccionarArticuloParaMateriaPrima.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.SeleccionarArtModifPrecio.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.SeleccionarArtParaCantidadMP.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.SeleccionarClienteModificarCredito.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.seleccionarPedidoParaOrdenF.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.stockArticulos.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.VerMPempleada.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.VerStockArticulos.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.VerTodosLosPedidos.resources
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.exe
+C:\Users\Usuario\Desktop\Proyecto\VND\sistemaVND (2)\sistemaVND\sistemaVND\obj\Debug\sistemaVND.pdb
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\Aether.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\Aspose.HTML.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\Chiron.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\FluentEmail.Core.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\FluentEmail.Mailgun.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\FParsec.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\FParsecCS.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\FSharp.Core.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\Google.Apis.Auth.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\Google.Apis.Core.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\Google.Apis.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\Hopac.Core.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\Hopac.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\Hopac.Platform.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\HtmlRenderer.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\HtmlRenderer.PdfSharp.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\HttpFs.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\Mailgun.Api.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\MailKit.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\MimeKit.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\Newtonsoft.Json.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\NodaTime.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\PdfSharp.Charting.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\PdfSharp.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\RestSharp.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\System.Buffers.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\System.Drawing.Common.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\System.Memory.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\System.Security.AccessControl.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\System.Security.Permissions.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\System.Text.Json.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\System.ValueTuple.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\Aether.pdb
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\Aether.xml
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\Aspose.HTML.xml
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\Chiron.pdb
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\Chiron.xml
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\FParsec.xml
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\FParsecCS.xml
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\FSharp.Core.xml
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\Google.Apis.pdb
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\Google.Apis.xml
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\Google.Apis.Auth.xml
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\Google.Apis.Core.pdb
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\Google.Apis.Core.xml
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\Hopac.xml
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\Hopac.Core.xml
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\HtmlRenderer.pdb
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\HtmlRenderer.PdfSharp.pdb
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\HttpFs.xml
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\Mailgun.Api.xml
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\MailKit.pdb
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\MailKit.xml
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\MailKit.dll.config
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\MimeKit.pdb
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\MimeKit.xml
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\MimeKit.dll.config
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\Newtonsoft.Json.xml
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\NodaTime.xml
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\PdfSharp.xml
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\PdfSharp.Charting.xml
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\RestSharp.xml
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\System.Buffers.xml
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\System.Memory.xml
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\System.Text.Json.xml
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\System.ValueTuple.xml
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.CantidadMPxArticulo.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.ConfigDeposito.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.ConsultarOrdenDeCompra.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.ConsultarOrdenF.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.ConsultarPedido.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.consultarProveedor.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.ConsultarStockParaOrdenF.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.consultarTransportista.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.consultarUsuarios.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.DetalleOrdenCRecibida.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.DetalleOrdenDeCompra.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.DetalleOrdenF.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.DetalleOrdenFporHacer.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.eliminarUsuario.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.enviarMailOrdenDeCompra.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.EstadisticaArticuloStock.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.EstadisticaClientesVentas.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.EstadisticaMPstock.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.EstadisticaOrdenesF.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.EstadisticaVentas.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.Fabricacion.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.FichaArticulo.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.FichaOrdenFParaConsulta.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.FichaPedido.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.InformesOrdenDeCompra.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.ModificarClienteCredito.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.ModificarPedido.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.ModificarPrecioArt.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.PreciosAriculos.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.registrarLocalidad.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.RegistrarOrdenDeCompra.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.RegistrarOrdenDeF.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.registrarProveedor.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.registrarProvincia.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.registrarTransportista.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.RegistroOrdenFCompararStock.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.SeleccionarArticuloParaMateriaPrima.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.SeleccionarArtModifPrecio.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.SeleccionarArtParaCantidadMP.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.SeleccionarClienteModificarCredito.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.seleccionarPedidoParaOrdenF.resources
+C:\Users\denis\source\repos\sistemaVND\sistemaVND\obj\Debug\sistemaVND.VerMPempleada.resources

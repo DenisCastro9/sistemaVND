@@ -1,0 +1,1200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{79A3F724-69B3-4C96-8CA0-A1413E1F2FC4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>sistemaVND</RootNamespace>
+    <AssemblyName>sistemaVND</AssemblyName>
+    <TargetFrameworkVersion>v4.8.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>
+    </ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>sistemaVND.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup>
+    <Reference Include="Aether, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Aether.8.0.2\lib\net35\Aether.dll</HintPath>
+    </Reference>
+    <Reference Include="Aspose.HTML, Version=23.5.0.0, Culture=neutral, PublicKeyToken=716fcc553a201e56, processorArchitecture=MSIL">
+      <HintPath>..\packages\Aspose.HTML.23.5.0\lib\netstandard2.0\Aspose.HTML.dll</HintPath>
+    </Reference>
+    <Reference Include="BouncyCastle.Cryptography, Version=2.0.0.0, Culture=neutral, PublicKeyToken=072edcf4a5328938, processorArchitecture=MSIL">
+      <HintPath>..\packages\BouncyCastle.Cryptography.2.1.1\lib\net461\BouncyCastle.Cryptography.dll</HintPath>
+    </Reference>
+    <Reference Include="Chiron, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Chiron.6.2.1\lib\net40\Chiron.dll</HintPath>
+    </Reference>
+    <Reference Include="FluentEmail.Core, Version=3.0.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\FluentEmail.Core.3.0.2\lib\netstandard2.0\FluentEmail.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="FluentEmail.Mailgun, Version=3.0.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\FluentEmail.Mailgun.3.0.2\lib\netstandard2.0\FluentEmail.Mailgun.dll</HintPath>
+    </Reference>
+    <Reference Include="FontAwesome.Sharp, Version=6.2.1.0, Culture=neutral, PublicKeyToken=d16d1e4e568ec10f, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesome.Sharp.6.2.1\lib\net48\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="FParsec, Version=1.0.0.0, Culture=neutral, PublicKeyToken=40ccfc0a09edbb5d, processorArchitecture=MSIL">
+      <HintPath>..\packages\FParsec.1.0.1\lib\net40-client\FParsec.dll</HintPath>
+    </Reference>
+    <Reference Include="FParsecCS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=40ccfc0a09edbb5d, processorArchitecture=MSIL">
+      <HintPath>..\packages\FParsec.1.0.1\lib\net40-client\FParsecCS.dll</HintPath>
+    </Reference>
+    <Reference Include="FSharp.Core, Version=4.4.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\FSharp.Core.4.1.17\lib\net45\FSharp.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis, Version=1.60.0.0, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Apis.1.60.0\lib\net45\Google.Apis.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis.Auth, Version=1.60.0.0, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Apis.Auth.1.60.0\lib\net461\Google.Apis.Auth.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis.Auth.PlatformServices, Version=1.60.0.0, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Apis.Auth.1.60.0\lib\net461\Google.Apis.Auth.PlatformServices.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis.Core, Version=1.60.0.0, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Apis.Core.1.60.0\lib\net45\Google.Apis.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis.PlatformServices, Version=1.60.0.0, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Apis.1.60.0\lib\net45\Google.Apis.PlatformServices.dll</HintPath>
+    </Reference>
+    <Reference Include="Hopac, Version=0.3.21.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Hopac.0.3.21\lib\net45\Hopac.dll</HintPath>
+    </Reference>
+    <Reference Include="Hopac.Core, Version=0.3.21.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Hopac.0.3.21\lib\net45\Hopac.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Hopac.Platform, Version=0.3.21.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Hopac.0.3.21\lib\net45\Hopac.Platform.dll</HintPath>
+    </Reference>
+    <Reference Include="HtmlRenderer, Version=1.5.0.5, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\HtmlRenderer.Core.1.5.0.5\lib\net45\HtmlRenderer.dll</HintPath>
+    </Reference>
+    <Reference Include="HtmlRenderer.PdfSharp, Version=1.5.0.6, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\HtmlRenderer.PdfSharp.1.5.0.6\lib\net45\HtmlRenderer.PdfSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="HttpFs, Version=4.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Http.fs.4.1.0\lib\net40\HttpFs.dll</HintPath>
+    </Reference>
+    <Reference Include="Mailgun.Api, Version=0.5.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Mailgun.Api.0.5.0\lib\net40\Mailgun.Api.dll</HintPath>
+    </Reference>
+    <Reference Include="MailKit, Version=4.0.0.0, Culture=neutral, PublicKeyToken=4e064fe7c44a8f1b, processorArchitecture=MSIL">
+      <HintPath>..\packages\MailKit.4.0.0\lib\net48\MailKit.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.7.0.0\lib\net462\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyInjection.Abstractions, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.DependencyInjection.Abstractions.5.0.0\lib\net461\Microsoft.Extensions.DependencyInjection.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging.Abstractions, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Logging.Abstractions.7.0.0\lib\net462\Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Win32.Primitives, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Win32.Primitives.4.0.1\lib\net46\Microsoft.Win32.Primitives.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MimeKit, Version=4.0.0.0, Culture=neutral, PublicKeyToken=bede1c8a46c66814, processorArchitecture=MSIL">
+      <HintPath>..\packages\MimeKit.4.0.0\lib\net48\MimeKit.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="NodaTime, Version=1.3.0.0, Culture=neutral, PublicKeyToken=4226afe0d9b296d1, processorArchitecture=MSIL">
+      <HintPath>..\packages\NodaTime.1.3.2\lib\net35-Client\NodaTime.dll</HintPath>
+    </Reference>
+    <Reference Include="PdfSharp, Version=1.32.3057.0, Culture=neutral, PublicKeyToken=f94615aa0424f9eb, processorArchitecture=MSIL">
+      <HintPath>..\packages\PDFsharp.1.32.3057.0\lib\net20\PdfSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="PdfSharp.Charting, Version=1.32.3057.0, Culture=neutral, PublicKeyToken=f94615aa0424f9eb, processorArchitecture=MSIL">
+      <HintPath>..\packages\PDFsharp.1.32.3057.0\lib\net20\PdfSharp.Charting.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="RestSharp, Version=110.2.0.0, Culture=neutral, PublicKeyToken=598062e77f915f75, processorArchitecture=MSIL">
+      <HintPath>..\packages\RestSharp.110.2.0\lib\net471\RestSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.AppContext, Version=4.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.AppContext.4.1.0\lib\net463\System.AppContext.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.Console, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Console.4.0.0\lib\net46\System.Console.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Diagnostics.DiagnosticSource, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Diagnostics.DiagnosticSource.7.0.0\lib\net462\System.Diagnostics.DiagnosticSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.Tracing, Version=4.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Diagnostics.Tracing.4.1.0\lib\net462\System.Diagnostics.Tracing.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Drawing.Common, Version=4.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Drawing.Common.4.5.0\lib\net461\System.Drawing.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Globalization.Calendars, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Globalization.Calendars.4.0.1\lib\net46\System.Globalization.Calendars.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.IO, Version=4.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.4.1.0\lib\net462\System.IO.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.IO.Compression, Version=4.1.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.Compression.4.1.0\lib\net46\System.IO.Compression.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.IO.Compression.FileSystem" />
+    <Reference Include="System.IO.Compression.ZipFile, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.Compression.ZipFile.4.0.1\lib\net46\System.IO.Compression.ZipFile.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.IO.FileSystem, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.FileSystem.4.3.0\lib\net46\System.IO.FileSystem.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.IO.FileSystem.Primitives, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.FileSystem.Primitives.4.3.0\lib\net46\System.IO.FileSystem.Primitives.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Linq, Version=4.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Linq.4.1.0\lib\net463\System.Linq.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Linq.Expressions, Version=4.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Linq.Expressions.4.1.0\lib\net463\System.Linq.Expressions.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Net.Http, Version=4.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Net.Http.4.1.0\lib\net46\System.Net.Http.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Net.Sockets, Version=4.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Net.Sockets.4.1.0\lib\net46\System.Net.Sockets.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reflection, Version=4.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Reflection.4.1.0\lib\net462\System.Reflection.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime, Version=4.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.4.1.0\lib\net462\System.Runtime.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Extensions, Version=4.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.Extensions.4.1.0\lib\net462\System.Runtime.Extensions.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime.InteropServices, Version=4.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.InteropServices.4.1.0\lib\net462\System.Runtime.InteropServices.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime.InteropServices.RuntimeInformation, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.InteropServices.RuntimeInformation.4.0.0\lib\net45\System.Runtime.InteropServices.RuntimeInformation.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security" />
+    <Reference Include="System.Security.AccessControl, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.AccessControl.4.5.0\lib\net461\System.Security.AccessControl.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Algorithms, Version=4.2.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.Algorithms.4.2.0\lib\net463\System.Security.Cryptography.Algorithms.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Encoding, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.Encoding.4.0.0\lib\net46\System.Security.Cryptography.Encoding.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Primitives, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.Primitives.4.0.0\lib\net46\System.Security.Cryptography.Primitives.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.X509Certificates, Version=4.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.X509Certificates.4.1.0\lib\net461\System.Security.Cryptography.X509Certificates.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security.Permissions, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Permissions.4.5.0\lib\net461\System.Security.Permissions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Principal.Windows, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Principal.Windows.4.5.0\lib\net461\System.Security.Principal.Windows.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Text.Encoding.CodePages, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Encoding.CodePages.4.5.0\lib\net461\System.Text.Encoding.CodePages.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encodings.Web, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Encodings.Web.7.0.0\lib\net462\System.Text.Encodings.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Json, Version=7.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Json.7.0.2\lib\net462\System.Text.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.RegularExpressions, Version=4.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.RegularExpressions.4.1.0\lib\net463\System.Text.RegularExpressions.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Thread, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Thread.4.0.0\lib\net46\System.Threading.Thread.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Threading.ThreadPool, Version=4.0.10.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.ThreadPool.4.0.10\lib\net46\System.Threading.ThreadPool.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ArticulosRegistrados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ArticulosRegistrados.designer.cs">
+      <DependentUpon>ArticulosRegistrados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CantidadMPxArticulo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CantidadMPxArticulo.Designer.cs">
+      <DependentUpon>CantidadMPxArticulo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConfigDeposito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConfigDeposito.Designer.cs">
+      <DependentUpon>ConfigDeposito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="consultarIngresoEgreso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="consultarIngresoEgreso.designer.cs">
+      <DependentUpon>consultarIngresoEgreso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="consultarMateriaPrima.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="consultarMateriaPrima.designer.cs">
+      <DependentUpon>consultarMateriaPrima.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultarOrdenDeCompra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultarOrdenDeCompra.Designer.cs">
+      <DependentUpon>ConsultarOrdenDeCompra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultarOrdenF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultarOrdenF.Designer.cs">
+      <DependentUpon>ConsultarOrdenF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultarPedido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultarPedido.Designer.cs">
+      <DependentUpon>ConsultarPedido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="consultarProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="consultarProveedor.designer.cs">
+      <DependentUpon>consultarProveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultarStockParaOrdenF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultarStockParaOrdenF.Designer.cs">
+      <DependentUpon>ConsultarStockParaOrdenF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="consultarTransportista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="consultarTransportista.designer.cs">
+      <DependentUpon>consultarTransportista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="consultarUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="consultarUsuarios.designer.cs">
+      <DependentUpon>consultarUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DetalleOrdenCRecibida.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DetalleOrdenCRecibida.Designer.cs">
+      <DependentUpon>DetalleOrdenCRecibida.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DetalleOrdenDeCompra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DetalleOrdenDeCompra.Designer.cs">
+      <DependentUpon>DetalleOrdenDeCompra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DetalleOrdenF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DetalleOrdenF.Designer.cs">
+      <DependentUpon>DetalleOrdenF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DetalleOrdenFporHacer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DetalleOrdenFporHacer.Designer.cs">
+      <DependentUpon>DetalleOrdenFporHacer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eliminarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eliminarUsuario.designer.cs">
+      <DependentUpon>eliminarUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="enviarMailOrdenDeCompra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="enviarMailOrdenDeCompra.designer.cs">
+      <DependentUpon>enviarMailOrdenDeCompra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EstadisticaArticuloStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EstadisticaArticuloStock.Designer.cs">
+      <DependentUpon>EstadisticaArticuloStock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EstadisticaClientesVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EstadisticaClientesVentas.Designer.cs">
+      <DependentUpon>EstadisticaClientesVentas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EstadisticaMPstock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EstadisticaMPstock.Designer.cs">
+      <DependentUpon>EstadisticaMPstock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EstadisticaOrdenesF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EstadisticaOrdenesF.Designer.cs">
+      <DependentUpon>EstadisticaOrdenesF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EstadisticaVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EstadisticaVentas.Designer.cs">
+      <DependentUpon>EstadisticaVentas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fabricacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fabricacion.Designer.cs">
+      <DependentUpon>Fabricacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FichaArticulo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FichaArticulo.Designer.cs">
+      <DependentUpon>FichaArticulo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FichaDeCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FichaDeCliente.designer.cs">
+      <DependentUpon>FichaDeCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FichaMateriaPrima.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FichaMateriaPrima.Designer.cs">
+      <DependentUpon>FichaMateriaPrima.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FichaOrdenFParaConsulta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FichaOrdenFParaConsulta.Designer.cs">
+      <DependentUpon>FichaOrdenFParaConsulta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FichaPedido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FichaPedido.Designer.cs">
+      <DependentUpon>FichaPedido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InformesOrdenDeCompra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InformesOrdenDeCompra.Designer.cs">
+      <DependentUpon>InformesOrdenDeCompra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IRestResponse.cs" />
+    <Compile Include="menuP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menuP.designer.cs">
+      <DependentUpon>menuP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="modificarClaveUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modificarClaveUsuario.designer.cs">
+      <DependentUpon>modificarClaveUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModificarClienteCredito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModificarClienteCredito.designer.cs">
+      <DependentUpon>ModificarClienteCredito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModificarPedido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModificarPedido.Designer.cs">
+      <DependentUpon>ModificarPedido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModificarPrecioArt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModificarPrecioArt.Designer.cs">
+      <DependentUpon>ModificarPrecioArt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PreciosAriculos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PreciosAriculos.Designer.cs">
+      <DependentUpon>PreciosAriculos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="consultarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="consultarCliente.Designer.cs">
+      <DependentUpon>consultarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BuscarDetallePEdido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BuscarDetallePEdido.designer.cs">
+      <DependentUpon>BuscarDetallePEdido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BuscarPedidoParaFactura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BuscarPedidoParaFactura.designer.cs">
+      <DependentUpon>BuscarPedidoParaFactura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BuscarPedidoParaRemito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BuscarPedidoParaRemito.designer.cs">
+      <DependentUpon>BuscarPedidoParaRemito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConfirmarFactura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConfirmarFactura.designer.cs">
+      <DependentUpon>ConfirmarFactura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultarRemito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultarRemito.designer.cs">
+      <DependentUpon>ConsultarRemito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="diseño.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="diseño.Designer.cs">
+      <DependentUpon>diseño.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FacturasRegistradas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FacturasRegistradas.designer.cs">
+      <DependentUpon>FacturasRegistradas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FacturaVerDetalle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FacturaVerDetalle.Designer.cs">
+      <DependentUpon>FacturaVerDetalle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FacturaVerEnPantalla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FacturaVerEnPantalla.designer.cs">
+      <DependentUpon>FacturaVerEnPantalla.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IForm.cs" />
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MateriaPrimaPorArticulo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MateriaPrimaPorArticulo.designer.cs">
+      <DependentUpon>MateriaPrimaPorArticulo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="modificarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modificarUsuario.designer.cs">
+      <DependentUpon>modificarUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegistrarArticulo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarArticulo.designer.cs">
+      <DependentUpon>RegistrarArticulo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarCliente.designer.cs">
+      <DependentUpon>RegistrarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarFacturacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarFacturacion.designer.cs">
+      <DependentUpon>RegistrarFacturacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="registrarLocalidad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="registrarLocalidad.designer.cs">
+      <DependentUpon>registrarLocalidad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="registrarMateriaPrima.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="registrarMateriaPrima.designer.cs">
+      <DependentUpon>registrarMateriaPrima.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarOrdenDeCompra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarOrdenDeCompra.Designer.cs">
+      <DependentUpon>RegistrarOrdenDeCompra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarOrdenDeF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarOrdenDeF.Designer.cs">
+      <DependentUpon>RegistrarOrdenDeF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarPedido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarPedido.designer.cs">
+      <DependentUpon>RegistrarPedido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="registrarProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="registrarProveedor.designer.cs">
+      <DependentUpon>registrarProveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="registrarProvincia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="registrarProvincia.designer.cs">
+      <DependentUpon>registrarProvincia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarRemito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarRemito.designer.cs">
+      <DependentUpon>RegistrarRemito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="registrarTransportista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="registrarTransportista.designer.cs">
+      <DependentUpon>registrarTransportista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="registrarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="registrarUsuario.designer.cs">
+      <DependentUpon>registrarUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegistroOrdenFCompararStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistroOrdenFCompararStock.Designer.cs">
+      <DependentUpon>RegistroOrdenFCompararStock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RemitoVerEnPantalla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RemitoVerEnPantalla.designer.cs">
+      <DependentUpon>RemitoVerEnPantalla.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SeleccionarArticuloParaMateriaPrima.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SeleccionarArticuloParaMateriaPrima.Designer.cs">
+      <DependentUpon>SeleccionarArticuloParaMateriaPrima.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SeleccionarArtModifPrecio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SeleccionarArtModifPrecio.Designer.cs">
+      <DependentUpon>SeleccionarArtModifPrecio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SeleccionarArtParaCantidadMP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SeleccionarArtParaCantidadMP.Designer.cs">
+      <DependentUpon>SeleccionarArtParaCantidadMP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SeleccionarClienteModificarCredito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SeleccionarClienteModificarCredito.Designer.cs">
+      <DependentUpon>SeleccionarClienteModificarCredito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="seleccionarPedidoParaOrdenF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="seleccionarPedidoParaOrdenF.Designer.cs">
+      <DependentUpon>seleccionarPedidoParaOrdenF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sistemaVNDDataSet.cs">
+      <DependentUpon>sistemaVNDDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="sistemaVNDDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>sistemaVNDDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="sistemaVNDDataSetArticulos.cs">
+      <DependentUpon>sistemaVNDDataSetArticulos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="sistemaVNDDataSetArticulos.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>sistemaVNDDataSetArticulos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="sistemaVNDDataSetLocalidad.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>sistemaVNDDataSetLocalidad.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="sistemaVNDDataSetProvincias.cs">
+      <DependentUpon>sistemaVNDDataSetProvincias.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="sistemaVNDDataSetProvincias.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>sistemaVNDDataSetProvincias.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="sistemaVNDDataSetUsuarios.cs">
+      <DependentUpon>sistemaVNDDataSetUsuarios.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="sistemaVNDDataSetUsuarios.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>sistemaVNDDataSetUsuarios.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="stockArticulos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="stockArticulos.designer.cs">
+      <DependentUpon>stockArticulos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VerMPempleada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VerMPempleada.Designer.cs">
+      <DependentUpon>VerMPempleada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VerStockArticulos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VerStockArticulos.designer.cs">
+      <DependentUpon>VerStockArticulos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VerTodosLosPedidos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VerTodosLosPedidos.Designer.cs">
+      <DependentUpon>VerTodosLosPedidos.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ArticulosRegistrados.resx">
+      <DependentUpon>ArticulosRegistrados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CantidadMPxArticulo.resx">
+      <DependentUpon>CantidadMPxArticulo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConfigDeposito.resx">
+      <DependentUpon>ConfigDeposito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="consultarIngresoEgreso.resx">
+      <DependentUpon>consultarIngresoEgreso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="consultarMateriaPrima.resx">
+      <DependentUpon>consultarMateriaPrima.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultarOrdenDeCompra.resx">
+      <DependentUpon>ConsultarOrdenDeCompra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultarOrdenF.resx">
+      <DependentUpon>ConsultarOrdenF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultarPedido.resx">
+      <DependentUpon>ConsultarPedido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="consultarProveedor.resx">
+      <DependentUpon>consultarProveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultarStockParaOrdenF.resx">
+      <DependentUpon>ConsultarStockParaOrdenF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="consultarTransportista.resx">
+      <DependentUpon>consultarTransportista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="consultarUsuarios.resx">
+      <DependentUpon>consultarUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DetalleOrdenCRecibida.resx">
+      <DependentUpon>DetalleOrdenCRecibida.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DetalleOrdenDeCompra.resx">
+      <DependentUpon>DetalleOrdenDeCompra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DetalleOrdenF.resx">
+      <DependentUpon>DetalleOrdenF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DetalleOrdenFporHacer.resx">
+      <DependentUpon>DetalleOrdenFporHacer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eliminarUsuario.resx">
+      <DependentUpon>eliminarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="enviarMailOrdenDeCompra.resx">
+      <DependentUpon>enviarMailOrdenDeCompra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EstadisticaArticuloStock.resx">
+      <DependentUpon>EstadisticaArticuloStock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EstadisticaClientesVentas.resx">
+      <DependentUpon>EstadisticaClientesVentas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EstadisticaMPstock.resx">
+      <DependentUpon>EstadisticaMPstock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EstadisticaOrdenesF.resx">
+      <DependentUpon>EstadisticaOrdenesF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EstadisticaVentas.resx">
+      <DependentUpon>EstadisticaVentas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fabricacion.resx">
+      <DependentUpon>Fabricacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FichaArticulo.resx">
+      <DependentUpon>FichaArticulo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FichaDeCliente.resx">
+      <DependentUpon>FichaDeCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FichaMateriaPrima.resx">
+      <DependentUpon>FichaMateriaPrima.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FichaOrdenFParaConsulta.resx">
+      <DependentUpon>FichaOrdenFParaConsulta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FichaPedido.resx">
+      <DependentUpon>FichaPedido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InformesOrdenDeCompra.resx">
+      <DependentUpon>InformesOrdenDeCompra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menuP.resx">
+      <DependentUpon>menuP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modificarClaveUsuario.resx">
+      <DependentUpon>modificarClaveUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModificarClienteCredito.resx">
+      <DependentUpon>ModificarClienteCredito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModificarPedido.resx">
+      <DependentUpon>ModificarPedido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModificarPrecioArt.resx">
+      <DependentUpon>ModificarPrecioArt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PreciosAriculos.resx">
+      <DependentUpon>PreciosAriculos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="consultarCliente.resx">
+      <DependentUpon>consultarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BuscarDetallePEdido.resx">
+      <DependentUpon>BuscarDetallePEdido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BuscarPedidoParaFactura.resx">
+      <DependentUpon>BuscarPedidoParaFactura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BuscarPedidoParaRemito.resx">
+      <DependentUpon>BuscarPedidoParaRemito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConfirmarFactura.resx">
+      <DependentUpon>ConfirmarFactura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultarRemito.resx">
+      <DependentUpon>ConsultarRemito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="diseño.resx">
+      <DependentUpon>diseño.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FacturasRegistradas.resx">
+      <DependentUpon>FacturasRegistradas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FacturaVerDetalle.resx">
+      <DependentUpon>FacturaVerDetalle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FacturaVerEnPantalla.resx">
+      <DependentUpon>FacturaVerEnPantalla.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MateriaPrimaPorArticulo.resx">
+      <DependentUpon>MateriaPrimaPorArticulo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modificarUsuario.resx">
+      <DependentUpon>modificarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrarArticulo.resx">
+      <DependentUpon>RegistrarArticulo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrarCliente.resx">
+      <DependentUpon>RegistrarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrarFacturacion.resx">
+      <DependentUpon>RegistrarFacturacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="registrarLocalidad.resx">
+      <DependentUpon>registrarLocalidad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="registrarMateriaPrima.resx">
+      <DependentUpon>registrarMateriaPrima.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrarOrdenDeCompra.resx">
+      <DependentUpon>RegistrarOrdenDeCompra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrarOrdenDeF.resx">
+      <DependentUpon>RegistrarOrdenDeF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrarPedido.resx">
+      <DependentUpon>RegistrarPedido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="registrarProveedor.resx">
+      <DependentUpon>registrarProveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="registrarProvincia.resx">
+      <DependentUpon>registrarProvincia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrarRemito.resx">
+      <DependentUpon>RegistrarRemito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="registrarTransportista.resx">
+      <DependentUpon>registrarTransportista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="registrarUsuario.resx">
+      <DependentUpon>registrarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistroOrdenFCompararStock.resx">
+      <DependentUpon>RegistroOrdenFCompararStock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RemitoVerEnPantalla.resx">
+      <DependentUpon>RemitoVerEnPantalla.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeleccionarArticuloParaMateriaPrima.resx">
+      <DependentUpon>SeleccionarArticuloParaMateriaPrima.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeleccionarArtModifPrecio.resx">
+      <DependentUpon>SeleccionarArtModifPrecio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeleccionarArtParaCantidadMP.resx">
+      <DependentUpon>SeleccionarArtParaCantidadMP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeleccionarClienteModificarCredito.resx">
+      <DependentUpon>SeleccionarClienteModificarCredito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="seleccionarPedidoParaOrdenF.resx">
+      <DependentUpon>seleccionarPedidoParaOrdenF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="stockArticulos.resx">
+      <DependentUpon>stockArticulos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VerMPempleada.resx">
+      <DependentUpon>VerMPempleada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VerStockArticulos.resx">
+      <DependentUpon>VerStockArticulos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VerTodosLosPedidos.resx">
+      <DependentUpon>VerTodosLosPedidos.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="sistemaVNDDataSet.xsc">
+      <DependentUpon>sistemaVNDDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="sistemaVNDDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>sistemaVNDDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="sistemaVNDDataSet.xss">
+      <DependentUpon>sistemaVNDDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="sistemaVNDDataSetArticulos.xsc">
+      <DependentUpon>sistemaVNDDataSetArticulos.xsd</DependentUpon>
+    </None>
+    <None Include="sistemaVNDDataSetArticulos.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>sistemaVNDDataSetArticulos.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="sistemaVNDDataSetArticulos.xss">
+      <DependentUpon>sistemaVNDDataSetArticulos.xsd</DependentUpon>
+    </None>
+    <None Include="sistemaVNDDataSetLocalidad.xsc">
+      <DependentUpon>sistemaVNDDataSetLocalidad.xsd</DependentUpon>
+    </None>
+    <None Include="sistemaVNDDataSetLocalidad.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>sistemaVNDDataSetLocalidad.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="sistemaVNDDataSetLocalidad.xss">
+      <DependentUpon>sistemaVNDDataSetLocalidad.xsd</DependentUpon>
+    </None>
+    <None Include="sistemaVNDDataSetProvincias.xsc">
+      <DependentUpon>sistemaVNDDataSetProvincias.xsd</DependentUpon>
+    </None>
+    <None Include="sistemaVNDDataSetProvincias.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>sistemaVNDDataSetProvincias.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="sistemaVNDDataSetProvincias.xss">
+      <DependentUpon>sistemaVNDDataSetProvincias.xsd</DependentUpon>
+    </None>
+    <None Include="sistemaVNDDataSetUsuarios.xsc">
+      <DependentUpon>sistemaVNDDataSetUsuarios.xsd</DependentUpon>
+    </None>
+    <None Include="sistemaVNDDataSetUsuarios.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>sistemaVNDDataSetUsuarios.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="sistemaVNDDataSetUsuarios.xss">
+      <DependentUpon>sistemaVNDDataSetUsuarios.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngwing.com.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngwing.com %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\V.N.D Scarpino 4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Dominio\Dominio.csproj">
+      <Project>{54dd2e57-86cc-4f3e-bc32-892b89e029c1}</Project>
+      <Name>Dominio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngegg %284%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngwing.com %287%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngegg %285%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-computer-icons-production-symbol-gears-5abe09c920bdf2.4131461815224037851341.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngegg %286%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VND-unscreen.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VND.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VND oscuro.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo Escritorio.jpg" />
+    <None Include="Resources\Icon1.ico" />
+    <None Include="Resources\plantillaListadoTransportistas.html" />
+    <None Include="Resources\plantillaListadoClientes.html" />
+    <None Include="Resources\PlantillaRemito.html" />
+    <None Include="Resources\PlantillaFactura.html" />
+    <None Include="Resources\PlantillaListadoPrecios.html" />
+    <None Include="Resources\PlantillaListadoDeCliente.html" />
+    <None Include="Resources\PlantillaOrdenDeFabricacionEmision.html" />
+    <None Include="Resources\PlantillaPedido.html" />
+    <None Include="Resources\PlantillaOrdenDeFabricacion.html" />
+    <None Include="Resources\plantillaEnvio.html" />
+    <None Include="Resources\plantilla.html" />
+    <None Include="Resources\icono.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

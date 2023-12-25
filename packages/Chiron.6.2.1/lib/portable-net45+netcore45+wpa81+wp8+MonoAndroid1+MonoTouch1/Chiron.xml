@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<assembly><name>Chiron</name></assembly>
+<members>
+<member name="M:Chiron.Patterns.|Property|_|``1(System.String)">
+<summary>
+ Parse a Property from a Json Object token, and try to deserialize it to the
+ inferred type.
+</summary>
+</member>
+<member name="M:Chiron.Patterns.|PropertyWith|``2(Microsoft.FSharp.Core.FSharpFunc{Chiron.Json,System.Tuple{Chiron.Functional.JsonResult{``0},``1}},System.String)">
+<summary>
+ Parse a Property from a Json Object token using a supplied fromJson,
+ and try to deserialize it to the inferred type.
+</summary>
+</member>
+</members>
+</doc>
